@@ -1,10 +1,10 @@
 ---
-title: '*Machine learning math'
+title: '*Mathematics for machine learning'
 date: 2024-07-23T13:03:02-07:00
 draft: false
 author: "Monica Spisar"
 authorLink: "https://monicaspisar.com"
-description: 'Resources: Machine learning math'
+description: 'Resources: Mathematics for machine learning'
 images: 
 - "/posts/.../....png"
 tags: []
@@ -44,6 +44,12 @@ math:
 - [Probability course](https://www.probabilitycourse.com/)
 - [Statistics 110: probability](https://projects.iq.harvard.edu/stat110/home)
 
-## Software Tools
+### Complex numbers
+- [Imaginary numbers are not Real: The geometric algebra of space-time (pdf)](https://worrydream.com/refs/Gull_1993_-_Imaginary_Numbers_are_not_Real.pdf)
+
+## Software tools
 
 - [Einops](https://einops.rocks/)
+  - [Einops in 30 seconds (Medium)](https://medium.com/@kyeg/einops-in-30-seconds-377a5f4d641a)
+
+## Complex numbers

@@ -1,10 +1,10 @@
 ---
-title: 'ARENA AI alignment'
+title: 'ARENA: AI alignment'
 date: 2024-07-21T22:42:57-07:00
 draft: false
 author: "Monica Spisar"
 authorLink: "https://monicaspisar.com"
-description: 'ARENA AI alignment'
+description: 'ARENA: AI alignment'
 images: 
 - "/posts/.../....png"
 tags: []
@@ -31,3 +31,7 @@ During my second batch at [RC](https://recurse.com), I joined a study group to c
 [A Mathematical Framework for Transformer Circuits](https://transformer-circuits.pub/2021/framework/index.html "A Mathematical Framework for Transformer Circuits")
 
 [Scaling Monosemanticity\: Extracting Interpretable Features from Claude 3 Sonnet](https://transformer-circuits.pub/2024/scaling-monosemanticity/index.html "Scaling Monosemanticity: Extracting Interpretable Features from Claude 3 Sonnet")
+
+## Other learning tools
+### Linear regression
+[Google: ML crash course: Linear regression](https://developers.google.com/machine-learning/crash-course/descending-into-ml/linear-regression)

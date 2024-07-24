@@ -18,7 +18,7 @@ Welcome to a new version of my site.
 
 This move enables me to organize my writing in one place (see [Medium and Substack Posts](https://monicaspisar.com/notes/medium-and-substack-posts/)) and lower the friction of posting small notes - primarily for myself, but some may be useful for others. In the spirit of being a [Recurser](https://recurse.com), here's my small contribution to learning generously.
 
-_nb: notes with a * prefix are just a collection of links_
+_Notes with a * prefix = resource collection (may/may not include any notes)_
 
 ---
 

@@ -6,14 +6,56 @@
     <description>Recent content in Notes on Monica Spisar</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 23 Jul 2024 20:27:20 -0700</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jul 2024 18:43:55 -0700</lastBuildDate>
     <atom:link href="https://monicaspisar.com/notes/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>*Computer networks</title>
-      <link>https://monicaspisar.com/notes/computer-networks/</link>
+      <title>*Computing hardware</title>
+      <link>https://monicaspisar.com/notes/computing_hardware/</link>
+      <pubDate>Wed, 24 Jul 2024 18:43:55 -0700</pubDate>
+      <guid>https://monicaspisar.com/notes/computing_hardware/</guid>
+      <description>Computer internals Oxide &amp;amp; Friends: CPU vs GPU vs vs FPGA vs ASIC?</description>
+    </item>
+    <item>
+      <title>*Machine learning</title>
+      <link>https://monicaspisar.com/notes/ml/</link>
+      <pubDate>Wed, 24 Jul 2024 18:31:26 -0700</pubDate>
+      <guid>https://monicaspisar.com/notes/ml/</guid>
+      <description>Techniques Transformers The Illustrated Transformer – Jay Alammar: Visualizing machine learning one concept at a time.&#xA;Random initialization Randomly Initialized One-Layer Neural Networks Make Data Linearly Separable&#xA;Model components Loss functions Loss Functions and Metrics in Deep Learning&#xA;Choice of loss function matters: Inside the maths that drives AI&#xA;Choice of loss function matters: Inside the maths that drives AI (pdf) Interpretability Experiments in reverse-engineering models OthelloGPT learned a bag of heuristics — LessWrong</description>
+    </item>
+    <item>
+      <title>*AI</title>
+      <link>https://monicaspisar.com/notes/ai/</link>
+      <pubDate>Wed, 24 Jul 2024 18:29:30 -0700</pubDate>
+      <guid>https://monicaspisar.com/notes/ai/</guid>
+      <description>Yann LeCun - A Path Towards Autonomous Machine Intelligence&#xA;Safety Situational awareness: The Decade Ahead (Aschenbrenner 2024)</description>
+    </item>
+    <item>
+      <title>*Distributed systems</title>
+      <link>https://monicaspisar.com/notes/distributed_systems/</link>
+      <pubDate>Wed, 24 Jul 2024 16:59:58 -0700</pubDate>
+      <guid>https://monicaspisar.com/notes/distributed_systems/</guid>
+      <description>Courses Specification and Verification of Distributed Protocols: Kapritsos @UMich</description>
+    </item>
+    <item>
+      <title>*Operating systems</title>
+      <link>https://monicaspisar.com/notes/operating_systems/</link>
+      <pubDate>Wed, 24 Jul 2024 16:46:03 -0700</pubDate>
+      <guid>https://monicaspisar.com/notes/operating_systems/</guid>
+      <description>Courses Stanford cs140e&#xA;CMU 15-410&#xA;Software that never fails and can&amp;rsquo;t be hacked, Dan O&amp;rsquo;Dowd 2021 Waterloo cs350&#xA;UMich eecs582&#xA;Operating Systems: Three Easy Pieces </description>
+    </item>
+    <item>
+      <title>*Software engineering</title>
+      <link>https://monicaspisar.com/notes/swe/</link>
+      <pubDate>Wed, 24 Jul 2024 14:00:35 -0700</pubDate>
+      <guid>https://monicaspisar.com/notes/swe/</guid>
+      <description>Abstraction Up and Down the Ladder of Abstraction&#xA;The Wrong Abstraction — Sandi Metz&#xA;Naur.pdf&#xA;Inspiration Dynamicland&#xA;progrium technology company&#xA;progrium technology thesis 2022 Tools Elvish Shell&#xA;by Qi, a fellow Recurser </description>
+    </item>
+    <item>
+      <title>*Networking</title>
+      <link>https://monicaspisar.com/notes/networking/</link>
       <pubDate>Tue, 23 Jul 2024 20:27:20 -0700</pubDate>
-      <guid>https://monicaspisar.com/notes/computer-networks/</guid>
-      <description>Stanford: Advanced topics in networking&#xA;On Precisely Detecting Censorship Circumvention in Real-World Networks</description>
+      <guid>https://monicaspisar.com/notes/networking/</guid>
+      <description>Courses Stanford: Advanced topics in networking&#xA;Papers On Precisely Detecting Censorship Circumvention in Real-World Networks (pdf)&#xA;Network Measurement Methods for Locating and Examining Censorship Devices (pdf)</description>
     </item>
     <item>
       <title>Learning Rust</title>
@@ -27,14 +69,14 @@
       <link>https://monicaspisar.com/notes/programming-languages/</link>
       <pubDate>Tue, 23 Jul 2024 13:07:54 -0700</pubDate>
       <guid>https://monicaspisar.com/notes/programming-languages/</guid>
-      <description>Python Andrew Montalenti&amp;rsquo;s blog: python posts Basics Real Python Tutorials Python.org: Python for beginners MIT6.100L Intro to CS and Programming Using Python Rust Mara&amp;rsquo;s blog Aria Beingessner&amp;rsquo;s blog The Rustonomicon Dev environment Rust in-browser playground Basics The Rust Book Rustlings Yet Another Rust Resource The Rustup Book Learn Rust by implementing linked lists Go Dev environment Go in-browser playground Basics Get started Docs </description>
+      <description>Python Expert blogs Andrew Montalenti&amp;rsquo;s blog: Python posts Basics Real Python Tutorials Python.org: Python for beginners MIT6.100L Intro to CS and Programming Using Python Rust Topics Why async Rust? The Pin type Expert blogs saoirse@without.boats Mara&amp;rsquo;s blog Aria Beingessner&amp;rsquo;s blog The Rustonomicon Dev environment Rust in-browser playground Basics The Rust Book Rustlings Yet Another Rust Resource The Rustup Book Learn Rust by implementing linked lists Go Dev environment Go in-browser playground Basics Get started Docs </description>
     </item>
     <item>
-      <title>*Machine learning math</title>
-      <link>https://monicaspisar.com/notes/machine-learning-math/</link>
+      <title>*Mathematics for machine learning</title>
+      <link>https://monicaspisar.com/notes/math-for-ml/</link>
       <pubDate>Tue, 23 Jul 2024 13:03:02 -0700</pubDate>
-      <guid>https://monicaspisar.com/notes/machine-learning-math/</guid>
-      <description>Books Mathematics for Machine Learning (.pdf) Deep Learning, Part I: Applied Math and Machine Learning Basics Linear algebra Probability and information theory Numerical computation Machine learning basics Topics Linear algebra Computational linear algebra (fast.ai) Introduction to linear algebra (Strang, MIT) Linear algebra review and reference (Kolter/Do, Stanford) Matrix manipulation Practical deep learning for coders: matrix manipulation (fast.ai) Calculus Practical deep learning for coders: backpropagation (fast.ai) Statistics Review of probability theory (Maleki/Do, Stanford) Probability course Statistics 110: probability Software Tools Einops </description>
+      <guid>https://monicaspisar.com/notes/math-for-ml/</guid>
+      <description>Books Mathematics for Machine Learning (.pdf) Deep Learning, Part I: Applied Math and Machine Learning Basics Linear algebra Probability and information theory Numerical computation Machine learning basics Topics Linear algebra Computational linear algebra (fast.ai) Introduction to linear algebra (Strang, MIT) Linear algebra review and reference (Kolter/Do, Stanford) Matrix manipulation Practical deep learning for coders: matrix manipulation (fast.ai) Calculus Practical deep learning for coders: backpropagation (fast.ai) Statistics Review of probability theory (Maleki/Do, Stanford) Probability course Statistics 110: probability Complex numbers Imaginary numbers are not Real: The geometric algebra of space-time (pdf) Software tools Einops Einops in 30 seconds (Medium) Complex numbers </description>
     </item>
     <item>
       <title>*Tech history</title>
@@ -55,14 +97,14 @@
       <link>https://monicaspisar.com/notes/recurse/</link>
       <pubDate>Tue, 23 Jul 2024 11:00:17 -0700</pubDate>
       <guid>https://monicaspisar.com/notes/recurse/</guid>
-      <description>&amp;ldquo;The retreat where curious programmers recharge and grow&amp;rdquo; I first joined the Recurse community in the fall of 2021, then returned for a second batch in the summer of 2024.&#xA;Recurse brands itself as the equivalent of a writing retreat - but for software engineers. Recursers work at the edge of their abilities to become dramatically better programmers during their batch, then never-graduate and join the 2000+ alumni community.&#xA;What do Recurses do during their batches?</description>
+      <description>&amp;ldquo;The retreat where curious programmers recharge and grow&amp;rdquo; I first joined the Recurse community in the fall of 2021, then returned for a second batch in the summer of 2024.&#xA;Recurse brands itself as the equivalent of a writers&amp;rsquo; retreat - but for software engineers. Recursers work at the edge of their abilities to become dramatically better programmers during their batch, then never-graduate and join the 2000+ alumni community.&#xA;What do Recurses do during their batches?</description>
     </item>
     <item>
       <title>README</title>
       <link>https://monicaspisar.com/notes/readme/</link>
       <pubDate>Sun, 21 Jul 2024 22:38:25 -0700</pubDate>
       <guid>https://monicaspisar.com/notes/readme/</guid>
-      <description>Welcome to a new version of my site.&#xA;This move enables me to organize my writing in one place (see Medium and Substack Posts) and lower the friction of posting small notes - primarily for myself, but some may be useful for others. In the spirit of being a Recurser, here&amp;rsquo;s my small contribution to learning generously.&#xA;nb: notes with a * prefix are just a collection of links&#xA;Site build Framework: Hugo Theme: LoveIt theme Custom CSS: /_override.</description>
+      <description>Welcome to a new version of my site.&#xA;This move enables me to organize my writing in one place (see Medium and Substack Posts) and lower the friction of posting small notes - primarily for myself, but some may be useful for others. In the spirit of being a Recurser, here&amp;rsquo;s my small contribution to learning generously.&#xA;Notes with a * prefix = resource collection (may/may not include any notes)</description>
     </item>
     <item>
       <title>Raytracer</title>

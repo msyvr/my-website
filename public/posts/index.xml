@@ -4,7 +4,7 @@
         <link>https://monicaspisar.com/posts/</link>
         <description>All Posts | Monica Spisar</description>
         <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 21 Jul 2024 22:42:57 -0700</lastBuildDate><atom:link href="https://monicaspisar.com/posts/" rel="self" type="application/rss+xml" /><item>
-    <title>ARENA AI alignment</title>
+    <title>ARENA: AI alignment</title>
     <link>https://monicaspisar.com/posts/arena/</link>
     <pubDate>Sun, 21 Jul 2024 22:42:57 -0700</pubDate>
     <author>Monica Spisar</author>
@@ -15,6 +15,20 @@ Generative Adversarial Nets
 Attention is All You Need
 Interpretability A Mathematical Framework for Transformer Circuits
 Scaling Monosemanticity: Extracting Interpretable Features from Claude 3 Sonnet]]></description>
+</item>
+<item>
+    <title>Machine learning</title>
+    <link>https://monicaspisar.com/posts/machine-learning/</link>
+    <pubDate>Sun, 21 Jul 2024 16:37:09 -0700</pubDate>
+    <author>Monica Spisar</author>
+    <guid>https://monicaspisar.com/posts/machine-learning/</guid>
+    <description><![CDATA[Backprop The paper that started it all: Letters to Nature: Learning representation by back-propagating errors (pdf)
+Batch norm How does batch normalization help optimization? (pdf)
+Model evaluation Evaluating Large Language Models Trained on Code
+Fine tuning models: domain-adaptive pre-training Continual Pre-training of Language Models
+Synthetic data Machine Learning for Synthetic Data Generation: A Review
+Cosmopedia: how to create large-scale synthetic data for pre-training Large Language Models
+Practice projects Karpathy: Micrograd karpathy/micrograd: A tiny scalar-valued autograd engine and a neural net library on top of it with PyTorch-like API (github)]]></description>
 </item>
 <item>
     <title>Picture Perfect: AI &#43; Medical Imaging</title>

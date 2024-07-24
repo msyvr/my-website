@@ -18,7 +18,8 @@ math:
 
 ## Python
 
-- [Andrew Montalenti's blog: python posts](https://amontalenti.com/?s=python)
+### Expert blogs
+- [Andrew Montalenti's blog: Python posts](https://amontalenti.com/?s=python)
 
 ### Basics
 - [Real Python Tutorials](https://realpython.com/)
@@ -29,6 +30,12 @@ math:
 
 ## Rust
 
+### Topics
+- [Why async Rust\?](https://without.boats/blog/why-async-rust/ "Why async Rust?")
+- [The Pin type](https://without.boats/blog/pin/ "Pin")
+
+### Expert blogs
+- [saoirse@without.boats](https://without.boats/)
 - [Mara's blog](https://blog.m-ou.se/)
 - [Aria Beingessner's blog](https://faultlore.com/blah/)
   - [The Rustonomicon](https://doc.rust-lang.org/nightly/nomicon/)

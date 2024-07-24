@@ -2,18 +2,25 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>https://monicaspisar.com/notes/computer-networks/</loc><lastmod>2024-07-23T20:27:20-07:00</lastmod></url><url>
-            <loc>https://monicaspisar.com/</loc><lastmod>2024-07-23T20:27:20-07:00</lastmod></url><url>
-            <loc>https://monicaspisar.com/notes/</loc><lastmod>2024-07-23T20:27:20-07:00</lastmod></url><url>
+            <loc>https://monicaspisar.com/notes/computing_hardware/</loc><lastmod>2024-07-24T18:43:55-07:00</lastmod></url><url>
+            <loc>https://monicaspisar.com/</loc><lastmod>2024-07-24T18:43:55-07:00</lastmod></url><url>
+            <loc>https://monicaspisar.com/notes/</loc><lastmod>2024-07-24T18:43:55-07:00</lastmod></url><url>
+            <loc>https://monicaspisar.com/notes/ml/</loc><lastmod>2024-07-24T18:31:26-07:00</lastmod></url><url>
+            <loc>https://monicaspisar.com/notes/ai/</loc><lastmod>2024-07-24T18:29:30-07:00</lastmod></url><url>
+            <loc>https://monicaspisar.com/notes/distributed_systems/</loc><lastmod>2024-07-24T16:59:58-07:00</lastmod></url><url>
+            <loc>https://monicaspisar.com/notes/operating_systems/</loc><lastmod>2024-07-24T16:46:03-07:00</lastmod></url><url>
+            <loc>https://monicaspisar.com/notes/swe/</loc><lastmod>2024-07-24T14:00:35-07:00</lastmod></url><url>
+            <loc>https://monicaspisar.com/notes/networking/</loc><lastmod>2024-07-23T20:27:20-07:00</lastmod></url><url>
             <loc>https://monicaspisar.com/notes/learn-rust/</loc><lastmod>2024-07-23T13:08:18-07:00</lastmod></url><url>
             <loc>https://monicaspisar.com/notes/programming-languages/</loc><lastmod>2024-07-23T13:07:54-07:00</lastmod></url><url>
-            <loc>https://monicaspisar.com/notes/machine-learning-math/</loc><lastmod>2024-07-23T13:03:02-07:00</lastmod></url><url>
+            <loc>https://monicaspisar.com/notes/math-for-ml/</loc><lastmod>2024-07-23T13:03:02-07:00</lastmod></url><url>
             <loc>https://monicaspisar.com/notes/tech-history/</loc><lastmod>2024-07-23T12:10:18-07:00</lastmod></url><url>
             <loc>https://monicaspisar.com/notes/git/</loc><lastmod>2024-07-23T12:08:06-07:00</lastmod></url><url>
             <loc>https://monicaspisar.com/notes/recurse/</loc><lastmod>2024-07-23T11:00:17-07:00</lastmod></url><url>
             <loc>https://monicaspisar.com/posts/arena/</loc><lastmod>2024-07-21T22:42:57-07:00</lastmod></url><url>
             <loc>https://monicaspisar.com/posts/</loc><lastmod>2024-07-21T22:42:57-07:00</lastmod></url><url>
             <loc>https://monicaspisar.com/notes/readme/</loc><lastmod>2024-07-21T22:38:25-07:00</lastmod></url><url>
+            <loc>https://monicaspisar.com/posts/machine-learning/</loc><lastmod>2024-07-21T16:37:09-07:00</lastmod></url><url>
             <loc>https://monicaspisar.com/notes/raytracer/</loc><lastmod>2021-12-12T22:43:54-07:00</lastmod></url><url>
             <loc>https://monicaspisar.com/notes/medium-and-substack-posts/</loc><lastmod>2021-01-01T19:02:34-07:00</lastmod></url><url>
             <loc>https://monicaspisar.com/notes/mickens-usenix-2018/</loc><lastmod>2018-12-10T18:56:48-07:00</lastmod></url><url>
