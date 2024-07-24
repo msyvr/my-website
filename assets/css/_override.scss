@@ -1,0 +1,106 @@
+
+header {
+    .header-title {
+        font-weight: lighter;
+    }
+    .menu .menu-item {
+        font-weight: lighter;
+    }
+}
+
+body {
+    font-weight: 300;
+    .page {
+        .home {
+            .home-title {
+                font-weight: 300;
+            }
+        }
+        .home[data-home=posts] {
+            .summary {
+                .single-title {
+                    font-weight: 300;
+                }
+            }
+        }        
+    }
+    .page.archive {
+        .single-title {
+            font-weight: lighter;
+        }
+        .group-title {
+            font-weight: lighter;
+        }
+    }
+    .single {
+        .single-title {
+                font-size: 1.5rem;
+                font-weight: bolder;
+            }   
+        .single-subtitle {
+            font-weight: lighter;
+        }      
+        .content {
+            h2 {
+                font-size: 1.25rem;
+                font-weight: lighter !important;
+            }
+            > h2 > .header-mark::before {
+                    content: "[]";
+                }
+            h3 {
+                font-size: 0.9rem;
+                font-weight: bolder;
+            }
+        }
+    }
+    .toc {
+        .toc-title {
+            font-size: smaller;
+            font-weight: lighter;
+        }
+        .toc-content {
+            font-size: smaller;
+            font-weight: lighter;
+        }
+    }
+}
+
+// ========= Global ============== //
+$global-background-color-dark: #1a1a1a !important;
+
+// Color of the link
+$global-link-color: #4d727b;
+$global-link-color-dark: #6e868b;
+
+// Color of the hover link
+$global-link-hover-color: #6e868b;
+$global-link-hover-color-dark: #d6d3d3;
+
+// ========= Global ============== //
+
+// ========= Single ============== //
+
+// Color of the single link
+$single-link-color: #4d727b; // font-color? 6e868b
+$single-link-color-dark: #6e868b;
+
+// Color of the hover single link
+$single-link-hover-color: #6e868b;
+$single-link-hover-color-dark: #d6d3d3;
+
+// Color of the blockquote
+$blockquote-color:#e8e9ea; // 6bd6fd
+$blockquote-color-dark: #4c4c4c; // 59c5ec
+
+// ========= Single ============== //
+
+// ========== Pagination ========== //
+// Color of the link in pagination
+$pagination-link-color: #7795a0;
+$pagination-link-color-dark: #bfd9de;
+
+// Color of the hover link in pagination
+$pagination-link-hover-color: #51656c;
+$pagination-link-hover-color-dark: #889699;
+// ========== Pagination ========== //

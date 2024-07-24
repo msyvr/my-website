@@ -1,0 +1,37 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>All Posts - Monica Spisar</title>
+        <link>https://monicaspisar.com/posts/</link>
+        <description>All Posts | Monica Spisar</description>
+        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 21 Jul 2024 22:42:57 -0700</lastBuildDate><atom:link href="https://monicaspisar.com/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>ARENA AI alignment</title>
+    <link>https://monicaspisar.com/posts/arena/</link>
+    <pubDate>Sun, 21 Jul 2024 22:42:57 -0700</pubDate>
+    <author>Monica Spisar</author>
+    <guid>https://monicaspisar.com/posts/arena/</guid>
+    <description><![CDATA[ARENA @ RC 2024 During my second batch at RC, I joined a study group to cover the materials from Callum McDougall&rsquo;s Alignment Research Engineer Accelerator aka ARENA program which is normally delivered by LISI: the London Initiative for Safe AI. More on that soon!
+Foundational ML ImageNet Classification with Deep Convolutional Neural Networks
+Generative Adversarial Nets
+Attention is All You Need
+Interpretability A Mathematical Framework for Transformer Circuits
+Scaling Monosemanticity: Extracting Interpretable Features from Claude 3 Sonnet]]></description>
+</item>
+<item>
+    <title>Picture Perfect: AI &#43; Medical Imaging</title>
+    <link>https://monicaspisar.com/posts/picture-perfect/</link>
+    <pubDate>Fri, 25 May 2018 18:03:52 -0700</pubDate>
+    <author>Monica Spisar</author>
+    <guid>https://monicaspisar.com/posts/picture-perfect/</guid>
+    <description><![CDATA[Picture perfect: AI + medical imaging Caveat emptor! Written in November 2017. Progress in AI is astonishingly rapid: this is inevitably out of date.
+Radiology&rsquo;s inevitable evolution Artificial intelligence (AI) in medical imaging is a controversial topic - up for debate are questions regarding its implementation (from both technical and regulatory standpoints), ultimate potential (presuming it has the theoretical potential to do better, will it do better in practice, and how might it alter clinical processes?]]></description>
+</item>
+<item>
+    <title>Seeing Within</title>
+    <link>https://monicaspisar.com/posts/seeing-within/</link>
+    <pubDate>Wed, 31 Jan 2018 19:29:31 -0700</pubDate>
+    <author>Monica Spisar</author>
+    <guid>https://monicaspisar.com/posts/seeing-within/</guid>
+    <description><![CDATA[Seeing within: Magical imaging Much of the complexity of the human body is shrouded in mystery. But we know a lot more than we used to about its structure and function. Structure (anatomy), in particular, has been mapped out in meticulous detail. In the distant past, building up static anatomical maps relied on information from dissections. Yeah, gross. Also, pretty much useless to a live person needing guidance for treatment of injury or disease, or for monitoring a chronic condition.]]></description>
+</item>
+</channel>
+</rss>

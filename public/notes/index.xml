@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Notes on Monica Spisar</title>
+    <link>https://monicaspisar.com/notes/</link>
+    <description>Recent content in Notes on Monica Spisar</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 23 Jul 2024 20:27:20 -0700</lastBuildDate>
+    <atom:link href="https://monicaspisar.com/notes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>*Computer networks</title>
+      <link>https://monicaspisar.com/notes/computer-networks/</link>
+      <pubDate>Tue, 23 Jul 2024 20:27:20 -0700</pubDate>
+      <guid>https://monicaspisar.com/notes/computer-networks/</guid>
+      <description>Stanford: Advanced topics in networking&#xA;On Precisely Detecting Censorship Circumvention in Real-World Networks</description>
+    </item>
+    <item>
+      <title>Learning Rust</title>
+      <link>https://monicaspisar.com/notes/learn-rust/</link>
+      <pubDate>Tue, 23 Jul 2024 13:08:18 -0700</pubDate>
+      <guid>https://monicaspisar.com/notes/learn-rust/</guid>
+      <description>One of my 2024 batch goals at Recurse is to learn Rust.&#xA;How?&#xA;work through three introductory Rust resources The Rust Book Rustlings Yet Another Rust Resource) implement a small project in Rust My solutions:&#xA;msyvr/rusty msyvr/rustlings msyvr/yarry </description>
+    </item>
+    <item>
+      <title>*Programming languages</title>
+      <link>https://monicaspisar.com/notes/programming-languages/</link>
+      <pubDate>Tue, 23 Jul 2024 13:07:54 -0700</pubDate>
+      <guid>https://monicaspisar.com/notes/programming-languages/</guid>
+      <description>Python Andrew Montalenti&amp;rsquo;s blog: python posts Basics Real Python Tutorials Python.org: Python for beginners MIT6.100L Intro to CS and Programming Using Python Rust Mara&amp;rsquo;s blog Aria Beingessner&amp;rsquo;s blog The Rustonomicon Dev environment Rust in-browser playground Basics The Rust Book Rustlings Yet Another Rust Resource The Rustup Book Learn Rust by implementing linked lists Go Dev environment Go in-browser playground Basics Get started Docs </description>
+    </item>
+    <item>
+      <title>*Machine learning math</title>
+      <link>https://monicaspisar.com/notes/machine-learning-math/</link>
+      <pubDate>Tue, 23 Jul 2024 13:03:02 -0700</pubDate>
+      <guid>https://monicaspisar.com/notes/machine-learning-math/</guid>
+      <description>Books Mathematics for Machine Learning (.pdf) Deep Learning, Part I: Applied Math and Machine Learning Basics Linear algebra Probability and information theory Numerical computation Machine learning basics Topics Linear algebra Computational linear algebra (fast.ai) Introduction to linear algebra (Strang, MIT) Linear algebra review and reference (Kolter/Do, Stanford) Matrix manipulation Practical deep learning for coders: matrix manipulation (fast.ai) Calculus Practical deep learning for coders: backpropagation (fast.ai) Statistics Review of probability theory (Maleki/Do, Stanford) Probability course Statistics 110: probability Software Tools Einops </description>
+    </item>
+    <item>
+      <title>*Tech history</title>
+      <link>https://monicaspisar.com/notes/tech-history/</link>
+      <pubDate>Tue, 23 Jul 2024 12:10:18 -0700</pubDate>
+      <guid>https://monicaspisar.com/notes/tech-history/</guid>
+      <description>Information theory George Boole Develops Boolean Algebra&#xA;How Claude Shannon Invented the Future&#xA;A mathematical theory of communication How Claude Shannon Helped Kick-start Machine Learning&#xA;A chess playing machine Semiconductors Early Silicon Valley (PBS)&#xA;Fairchild Semiconductor&#xA;Lynn Conway&#xA;Operating systems Unix&#xA;Linux&#xA;Tech origin stories The Traitorous Eight&#xA;Alan Kay&amp;rsquo;s talk at UCLA 2024 Feburary 21st.</description>
+    </item>
+    <item>
+      <title>*Git wizardry</title>
+      <link>https://monicaspisar.com/notes/git/</link>
+      <pubDate>Tue, 23 Jul 2024 12:08:06 -0700</pubDate>
+      <guid>https://monicaspisar.com/notes/git/</guid>
+      <description>Fringe Obscure but useful Git incantations The hard parts Git, detached HEAD - Flavio Copes Some standard Git workflows Adding the current commit to an earlier commit where&amp;hellip; target commit = most recent commit: git commit --amend target commit &amp;lt; most recent commit: git commit --fixup=&amp;lt;commit hash&amp;gt; git rebase -i --autosquash main (alternately&amp;hellip;)&#xA;git commit --fixup :/&amp;lt;some-identifying-word-from-target-commit-message&amp;gt; git rebase -i --autosquash main </description>
+    </item>
+    <item>
+      <title>Recurse Center</title>
+      <link>https://monicaspisar.com/notes/recurse/</link>
+      <pubDate>Tue, 23 Jul 2024 11:00:17 -0700</pubDate>
+      <guid>https://monicaspisar.com/notes/recurse/</guid>
+      <description>&amp;ldquo;The retreat where curious programmers recharge and grow&amp;rdquo; I first joined the Recurse community in the fall of 2021, then returned for a second batch in the summer of 2024.&#xA;Recurse brands itself as the equivalent of a writing retreat - but for software engineers. Recursers work at the edge of their abilities to become dramatically better programmers during their batch, then never-graduate and join the 2000+ alumni community.&#xA;What do Recurses do during their batches?</description>
+    </item>
+    <item>
+      <title>README</title>
+      <link>https://monicaspisar.com/notes/readme/</link>
+      <pubDate>Sun, 21 Jul 2024 22:38:25 -0700</pubDate>
+      <guid>https://monicaspisar.com/notes/readme/</guid>
+      <description>Welcome to a new version of my site.&#xA;This move enables me to organize my writing in one place (see Medium and Substack Posts) and lower the friction of posting small notes - primarily for myself, but some may be useful for others. In the spirit of being a Recurser, here&amp;rsquo;s my small contribution to learning generously.&#xA;nb: notes with a * prefix are just a collection of links&#xA;Site build Framework: Hugo Theme: LoveIt theme Custom CSS: /_override.</description>
+    </item>
+    <item>
+      <title>Raytracer</title>
+      <link>https://monicaspisar.com/notes/raytracer/</link>
+      <pubDate>Sun, 12 Dec 2021 22:43:54 -0700</pubDate>
+      <guid>https://monicaspisar.com/notes/raytracer/</guid>
+      <description>During my first Recurse Center retreat in the fall of 2021, I worked on code craftsmanship and experimented with a variety of software engineering concepts. One tangent led me to writing a ray tracing engine.&#xA;GPUs rule In the course of exploring photorealistic image generation for movies and games, I discovered that the practical execution of algorithms which simulate realistic (physics-based) illumination is made possible by phenomenal advances in dedicated hardware, supported by machine learning.</description>
+    </item>
+    <item>
+      <title>*Medium and Substack (old) posts</title>
+      <link>https://monicaspisar.com/notes/medium-and-substack-posts/</link>
+      <pubDate>Fri, 01 Jan 2021 19:02:34 -0700</pubDate>
+      <guid>https://monicaspisar.com/notes/medium-and-substack-posts/</guid>
+      <description>In addition to research publications, I have a small collection of prior publicly-shared works on Medium and Substack. A few posts from each:&#xA;Medium: msyvr Picture perfect: AI + medical imaging&#xA;&amp;ldquo;Leave me in peace, Wizard.&amp;rdquo;: Notes on James Mickens&amp;rsquo; talk at USENIX Security &amp;lsquo;18&#xA;Seeing withing: Magical imaging&#xA;Substack: gaming aging Mainstreaming longevity: scaling biohacking&#xA;Hedging bets on healthier aging</description>
+    </item>
+    <item>
+      <title>Mickens Usenix 2018</title>
+      <link>https://monicaspisar.com/notes/mickens-usenix-2018/</link>
+      <pubDate>Mon, 10 Dec 2018 18:56:48 -0700</pubDate>
+      <guid>https://monicaspisar.com/notes/mickens-usenix-2018/</guid>
+      <description>James Mickens on the value of skepticism Notes from James Mickens&amp;rsquo; talk at USENIX Security &amp;lsquo;18.&#xA;If you haven&amp;rsquo;t seen James&amp;rsquo; talk and have an hour to view his actual keynote, please do yourself a favor and just go see his talk. It&amp;rsquo;s entertaining, educational, and thought provoking. Absolutely not to be missed - the most fun you&amp;rsquo;ll have while thinking about cybersecurity, machine learning, and computing more generally. Case in point, a fun still from his talk…</description>
+    </item>
+  </channel>
+</rss>

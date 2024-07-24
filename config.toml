@@ -1,0 +1,186 @@
+baseurl = "https://monicaspisar.com/"
+languageCode = "en-us"
+languageName = "English"
+title = "Monica Spisar"
+theme = "loveit"
+footnotereturnlinkcontents = "↩"
+
+[menu]
+  [[menu.main]]
+    weight = 1
+    identifier = "posts"
+    pre = ""
+    post = ""
+    name = "Posts"
+    url = "/posts/"
+    title = ""
+
+  [[menu.main]]
+    weight = 10
+    identifier = "notes"
+    pre = ""
+    post = ""
+    name = "Notes"
+    url = "/notes/"
+    title = ""
+
+  # [[menu.main]]
+  #   weight = 20
+  #   identifier = "tags"
+  #   pre = ""
+  #   post = ""
+  #   name = "Tags"
+  #   url = "/tags/"
+  #   title = ""
+
+  # [[menu.main]]
+  #   weight = 30
+  #   identifier = "categories"
+  #   pre = ""
+  #   post = ""
+  #   name = "Categories"
+  #   url = "/categories/"
+  #   title = ""
+
+  [[menu.main]]
+    weight = 40
+    identifier = "publications"
+    pre = ""
+    post = ""
+    name = "Publications"
+    url = "/publications/"
+    title = ""    
+
+  [[menu.main]]
+    weight = 50
+    identifier = "about"
+    pre = ""
+    post = ""
+    name = "About"
+    url = "/about/"
+    title = ""
+
+  [[menu.main]]
+    weight = 99
+    identifier = "linkedin"
+    pre = "<i class='fab fa-linkedin fa-fw' aria-hidden='true'></i>"
+    post = ""
+    name = ""
+    url = "https://linkedin.com/in/monicaspisar"
+    title = "LinkedIn"
+
+  [[menu.main]]
+    weight = 99
+    identifier = "twitter"
+    pre = "<i class='fab fa-twitter fa-fw' aria-hidden='true'></i>"
+    post = ""
+    name = ""
+    url = "https://twitter.com/msyvr"
+    title = "Twitter"    
+
+  [[menu.main]]
+    weight = 100
+    identifier = "github"
+    pre = "<i class='fab fa-github fa-fw' aria-hidden='true'></i>"
+    post = ""
+    name = ""
+    url = "https://github.com/msyvr"
+    title = "Github"
+
+[markup]
+	[markup.highlight]
+	noClasses = false
+
+[params]
+  author = "Monica Spisar"
+  link = "https://monicaspisar.com"
+  title = "Monica Spisar"
+  description = "Monica's website"
+# site default theme ["auto", "light", "dark"]
+  defaultTheme = "auto"
+
+
+  [params.header]
+    [params.header.title]
+      logo = ""
+      pre = ""
+      name = "Monica Spisar"
+      typeit = false
+  
+  [params.footer]
+    enable = true
+    hugo = false
+    copyright = true
+    author = true
+    since = 2024
+    license= '<a rel="license external nofollow noopener noreffer" href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank">CC BY-NC 4.0</a>'
+    custom = '<a href="https://www.recurse.com/"><img width="30px" src="/rc_static.svg"></img></a>'
+
+[params.section]
+  paginate = 25
+  dateFormat = "01-02"
+
+[params.app]
+  title = "Monica Spisar"
+
+[params.search]
+  enable = false # TODO
+
+[params.home]
+  [params.home.profile]
+    enable = false
+    gravatarEmail = "monicaspisar@gmail.com"
+    subtitle = ""
+    typeit = false
+    social = true
+
+  [params.social]
+    LinkedIn = "https://linkedin.com/in/monicaspisar"
+    GitHub = "msyvr"
+    Email = "monicaspisar@gmail.com"
+    Twitter = "msyvr"
+    RSS = true
+    Recurse = ""
+
+  [params.page]
+    [params.page.toc]
+      enable = true
+
+    [params.page.code]
+      maxShownLines = -1
+
+    [params.page.comment]
+      enable = false
+      [params.page.comment.utterances]
+        enable = true
+        repo = "msyvr/my-website"
+        issueTerm = "pathname"
+        label = ""
+        lightTheme = "github-light"
+        darkTheme = "github-dark"
+
+    [params.page.share]
+      enable = true
+      Twitter = true
+      Facebook = false
+      Linkedin = false
+      Whatsapp = false
+      Pinterest = false
+      Tumblr = false
+      HackerNews = true
+      Reddit = true
+      VK = false
+      Buffer = false
+      Xing = false
+      Line = false
+      Instapaper = false
+      Pocket = false
+      Flipboard = false
+      Weibo = false
+      Blogger = false
+      Baidu = false
+      Odnoklassniki = false
+      Evernote = false
+      Skype = false
+      Trello = false
+      Mix = false
