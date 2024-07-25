@@ -17,11 +17,11 @@ footnotereturnlinkcontents = "↩"
 
   [[menu.main]]
     weight = 10
-    identifier = "notes"
+    identifier = "etc"
     pre = ""
     post = ""
-    name = "Notes"
-    url = "/notes/"
+    name = "Etc"
+    url = "/etc/"
     title = ""
 
   # [[menu.main]]

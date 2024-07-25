@@ -1,43 +1,45 @@
 header {
     .header-title {
-        font-weight: lighter;
+        font-weight: lighter !important;
     }
     .menu .menu-item {
-        font-weight: lighter;
+        font-weight: lighter !important;
     }
 }
 
 body {
-    font-weight: 300;
+    font-weight: 250 !important;
+    font-size: 0.95rem;
+    line-height: 1.4rem;
     .page {
         .home {
             .home-title {
-                font-weight: 300;
+                font-weight: 300 !important;
             }
         }
         .home[data-home=posts] {
             .summary {
                 .single-title {
-                    font-weight: lighter;
+                    font-weight: lighter !important;
                 }
             }
         }        
     }
     .page.archive {
         .single-title {
-            font-weight: lighter;
+            font-weight: lighter !important;
         }
         .single-subtitle {
-            font-weight: lighter;
+            font-weight: lighter !important;
         }
         .group-title {
-            font-weight: lighter;
+            font-weight: lighter !important;
         }
     }
     .single {
         .single-title {
-                font-size: 1.5rem;
-                font-weight: lighter; // home page with posts listed
+                font-size: 1.25rem !important;
+                font-weight: lighter !important; // home page with posts listed
             }   
         // .single-subtitle {
         //     font-size: .9rem;
@@ -45,15 +47,17 @@ body {
         // }      
         .content {
             h2 {
-                font-size: 1.25rem;
+                font-size: 1.1rem !important;
                 font-weight: 200 !important;
+                margin-bottom: 0.05rem;
             }
             > h2 > .header-mark::before {
                     content: "※";
                 }
             h3 {
-                font-size: 1.1rem;
+                font-size: 1rem !important;
                 font-weight: bolder !important;
+                margin-bottom: 0.05rem;
             }
         }
     }
@@ -70,44 +74,44 @@ body {
 }
 
 // ========= Global ============== //
-$global-background-color: #fdfdfb;
-$global-background-color-dark: #1e1e1e;
+$global-background-color: #fdfdfb !important;
+$global-background-color-dark: #1e1e1e !important;
 
 // Color of the text
-$global-font-color: #474747;
-$global-font-color-dark: #e3e3e1;
+$global-font-color: #474747 !important;
+$global-font-color-dark: #e3e3e1 !important;
 
 // Color of the secondary text
-$global-font-secondary-color: #a5aa97;
-$global-font-secondary-color-dark: #a9a9a7;
+$global-font-secondary-color: #a5aa97 !important;
+$global-font-secondary-color-dark: #a9a9a7 !important;
 
 // Color of the link
-$global-link-color: #6b6d64;
-$global-link-color-dark: #cacac8;
+$global-link-color: #6b6d64 !important;
+$global-link-color-dark: #cacac8 !important;
 
 // Color of the hover link
-$global-link-hover-color: #000000;
-$global-link-hover-color-dark: #ffffff;
+$global-link-hover-color: #000000 !important;
+$global-link-hover-color-dark: #ffffff !important;
 
 // ========= Global ============== //
 
 // ========= Single ============== //
 
 // Color of the text
-$single-font-color: $global-font-color;
-$single-font-color-dark: $global-font-color-dark;
+$single-font-color: $global-font-color !important;
+$single-font-color-dark: $global-font-color-dark !important;
 
 // Color of the secondary text
-$single-font-secondary-color: $global-font-secondary-color;
-$single-font-secondary-color-dark: $global-font-secondary-color-dark;
+$single-font-secondary-color: $global-font-secondary-color !important;
+$single-font-secondary-color-dark: $global-font-secondary-color-dark !important;
 
 // Color of the single link
-$single-link-color: $global-link-color;
-$single-link-color-dark: $global-link-color-dark;
+$single-link-color: $global-link-color !important;
+$single-link-color-dark: $global-link-color-dark !important;
 
 // Color of the hover single link
-$single-link-hover-color: $global-link-hover-color;
-$single-link-hover-color-dark: $global-link-hover-color-dark;
+$single-link-hover-color: $global-link-hover-color !important;
+$single-link-hover-color-dark: $global-link-hover-color-dark !important;
 
 // ========= Single ============== //
 

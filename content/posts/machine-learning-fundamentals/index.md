@@ -16,20 +16,22 @@ math:
   enable: true
 ---
 
-## Backprop
+
+## Resources
+### Backprop
 [The paper that started it all: Letters to Nature: Learning representation by back-propagating errors (pdf)](https://www.cs.toronto.edu/~hinton/absps/naturebp.pdf)
 
-## Batch norm
+### Batch norm
 [How does batch normalization help optimization? (pdf)](https://arxiv.org/pdf/1805.11604)
 
-## Model evaluation
+### Model evaluation
 [Evaluating Large Language Models Trained on Code](https://arxiv.org/abs/2107.03374)
 
-## Fine tuning models: domain-adaptive pre-training
+### Fine tuning models: domain-adaptive pre-training
 
 [Continual Pre-training of Language Models](https://arxiv.org/abs/2302.03241)
 
-## Synthetic data
+### Synthetic data
 [Machine Learning for Synthetic Data Generation: A Review](https://arxiv.org/abs/2302.04062)
 
 [Cosmopedia\: how to create large\-scale synthetic data for pre\-training Large Language Models](https://huggingface.co/blog/cosmopedia "Cosmopedia: how to create large-scale synthetic data for pre-training Large Language Models")
