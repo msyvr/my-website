@@ -8,15 +8,16 @@ tags: []
 categories: []
 ---
 
-[>> Google scholar author page](https://scholar.google.com/citations?user=o6HuOMAAAAAJ&hl=en)
-
 I started my career in academia and am an author on a dozen or so peer-reviewed publications and conference papers.
 
-My degrees are in physics ([University of Toronto](https://www.utoronto.ca/), BSc) and engineering ([University of Michigan](https://www.engin.umich.edu/), PhD). My doctoral research was in the field of medical imaging; specifically, optical detection of ultrasound.
+[>> my Google scholar author page](https://scholar.google.com/citations?user=o6HuOMAAAAAJ&hl=en)
+
+#
+After completing an undergraduate degree in physics ([University of Toronto](https://www.utoronto.ca/), BSc), I earned a PhD in engineering ([University of Michigan](https://www.engin.umich.edu/), PhD). My doctoral research was in the field of medical imaging; specifically, optical detection of ultrasound.
 
 ---
 
-In [Matthew O'Donnell](https://scholar.google.com/citations?user=A9mPJnUAAAAJ&hl=en)'s group at Michigan, I led the detection subsystem efforts for an integrated high resolution laser ultrasound imaging system. I worked on both hardware and software, designing and building custom electronics, writing code for signal capture and image processing, fiddling with optical components and delicate materials, and pretty much living in the laser lab. A selection of related publications & conference papers:
+In [Matthew O'Donnell](https://scholar.google.com/citations?user=A9mPJnUAAAAJ&hl=en)'s group at Michigan, I led the detection subsystem efforts for an integrated high resolution laser ultrasound imaging system. I worked on both hardware and software, designing + building custom electronics, writing code for signal capture + image processing, fiddling with optical components + delicate materials + reflective coatings, and pretty much living in the laser lab. A selection of related publications & conference papers:
   - [_Stabilized, resonant optoacoustic array detectors for medical imaging_](https://www.researchgate.net/profile/Monica-Spisar/publication/326274038_STABILIZED_RESONANT_OPTOACOUSTIC_ARRAY_DETECTORS_FOR_MEDICAL_IMAGING/links/5b43b3270f7e9bb59b1b032e/STABILIZED-RESONANT-OPTOACOUSTIC-ARRAY-DETECTORS-FOR-MEDICAL-IMAGING.pdf)
     
   - [_High frequency optoacoustic arrays using etalon detection_](https://doi.org/10.1109/58.818758)

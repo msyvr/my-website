@@ -17,46 +17,24 @@ math:
 ---
 
 ## Python
-
-### Expert blogs
 - [Andrew Montalenti's blog: Python posts](https://amontalenti.com/?s=python)
-
-### Basics
-- [Real Python Tutorials](https://realpython.com/)
-- [Python.org: Python for beginners](https://www.python.org/about/gettingstarted/)
 - [MIT6.100L Intro to CS and Programming Using Python](https://ocw.mit.edu/courses/6-100l-introduction-to-cs-and-programming-using-python-fall-2022/download/)
 
 ---
 
 ## Rust
 
-### Topics
-- [Why async Rust\?](https://without.boats/blog/why-async-rust/ "Why async Rust?")
-- [The Pin type](https://without.boats/blog/pin/ "Pin")
-
-### Expert blogs
 - [saoirse@without.boats](https://without.boats/)
 - [Mara's blog](https://blog.m-ou.se/)
 - [Aria Beingessner's blog](https://faultlore.com/blah/)
   - [The Rustonomicon](https://doc.rust-lang.org/nightly/nomicon/)
-
-### Dev environment
-- [Rust in-browser playground](https://play.rust-lang.org)
-
-### Basics
-- [The Rust Book](https://doc.rust-lang.org/book/)
-- [Rustlings](https://rustlings.cool/)
+- [Why async Rust\?](https://without.boats/blog/why-async-rust/ "Why async Rust?")
+- [The Pin type](https://without.boats/blog/pin/ "Pin")
 - [Yet Another Rust Resource](https://yarr.fyi/)
-- [The Rustup Book](https://rust-lang.github.io/rustup/)
 - [Learn Rust by implementing linked lists](https://rust-unofficial.github.io/too-many-lists/)
 
 ---
 
 ## Go
+- [Francesc Campoy Flores](https://www.campoy.cat/blog/)
 
-### Dev environment
-- [Go in-browser playground](https://go.dev/play)
-
-### Basics
-- [Get started](https://go.dev/learn/)
-- [Docs](https://go.dev/doc/)

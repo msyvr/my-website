@@ -1,10 +1,10 @@
 ---
-title: 'Machine learning'
+title: 'Machine learning fundamentals'
 date: 2024-07-21T16:37:09-07:00
 draft: false
 author: "Monica Spisar"
 authorLink: "https://monicaspisar.com"
-description: 'Machine learning'
+description: 'Machine learning fundamentals'
 images: 
 - "/posts/.../....png"
 tags: []

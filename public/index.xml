@@ -19,11 +19,11 @@ Interpretability A Mathematical Framework for Transformer Circuits
 Scaling Monosemanticity: Extracting Interpretable Features from Claude 3 Sonnet]]></description>
 </item>
 <item>
-    <title>Machine learning</title>
-    <link>https://monicaspisar.com/posts/machine-learning/</link>
+    <title>Machine learning fundamentals</title>
+    <link>https://monicaspisar.com/posts/machine-learning-fundamentals/</link>
     <pubDate>Sun, 21 Jul 2024 16:37:09 -0700</pubDate>
     <author>Monica Spisar</author>
-    <guid>https://monicaspisar.com/posts/machine-learning/</guid>
+    <guid>https://monicaspisar.com/posts/machine-learning-fundamentals/</guid>
     <description><![CDATA[Backprop The paper that started it all: Letters to Nature: Learning representation by back-propagating errors (pdf)
 Batch norm How does batch normalization help optimization? (pdf)
 Model evaluation Evaluating Large Language Models Trained on Code
