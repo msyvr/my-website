@@ -16,7 +16,7 @@ math:
   enable: true
 ---
 
-In addition to [research publications](https://monicaspisar.com/publications), I have a small collection of prior publicly-shared works on [Medium](https://msyvr.medium.com/) and [Substack](https://gamingaging.substack.com/). A few posts from each:
+In addition to [research publications](https://monicaspisar.com/publications), I have a small collection of prior publicly-shared works on [Medium](https://msyvr.medium.com/) and [Substack](https://gamingaging.substack.com/). I've only brought some of those over to this site; here are a few posts from each:
 
 ## Medium: msyvr
 - [Picture perfect: AI + medical imaging](https://msyvr.medium.com/picture-perfect-ai-medical-imaging-f57eeb2b4b32)

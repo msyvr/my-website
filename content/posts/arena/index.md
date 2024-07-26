@@ -15,11 +15,11 @@ resources:
 math:
   enable: true
 ---
-## ARENA @ RC 2024
+#### &#127793; draft &#127793;
 
 During my second batch at [RC](https://recurse.com), I joined a study group to cover the materials from [Callum McDougall's](https://www.perfectlynormal.co.uk/) Alignment Research Engineer Accelerator aka [ARENA](https://arena.education) program which is normally delivered by [LISI: the London Initiative for Safe AI](https://www.safeai.org.uk/). 
 
-### notes coming soon! in the meanwhile, some of the resources I used...
+Notes in the works!
 
 --- 
 

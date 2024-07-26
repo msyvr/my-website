@@ -20,4 +20,5 @@ Over the years, I've called Toronto, Ann Arbor, Paris, Vancouver, Amsterdam, and
 
 #
 ![secretbowl](secretbowl.jpg "...")
-### Photograph © Monica Spisar 2024 [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)
+
+#### Photograph © Monica Spisar 2024

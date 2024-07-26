@@ -16,6 +16,7 @@ math:
   enable: true
 ---
 
+#### &#127793; draft &#127793;
 One of my 2024 batch goals at [Recurse](https://recurser.com) is to learn Rust. 
 
 ## How? 

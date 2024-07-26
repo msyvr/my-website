@@ -134,7 +134,7 @@ In addition to the time freed up for cognitively intense work once AI kicks in t
 
 With appropriate human oversight, AI in radiology has a good shot at remaining on the right side of Do No Harm… but do we even know what 'appropriate human oversight' looks like? ​That is likely to be the ultimate challenge for AI - and not just in radiology.
 
-_Originally published on [Medium](https://msyvr.medium.com/picture-perfect-ai-medical-imaging-f57eeb2b4b32) in 2017_
+#### Originally published on [Medium](https://msyvr.medium.com/picture-perfect-ai-medical-imaging-f57eeb2b4b32) in 2017
 
 ---
 

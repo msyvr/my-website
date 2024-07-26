@@ -98,4 +98,4 @@ Anyhow, we now have waves bouncing around in the body, carrying information from
 
 The brain that puts it all together to give us the actual image is, ultimately, a computer. The detector eyes send information to the computer brain, which processes it all. There's some pretty sophisticated code for converting raw data from the system eyes into images. Image processing uses a slew of complex mathemagical and computational tricks but, ultimately, it's all about translating the information that was encoded and delivered to the system eyes into an image. 
 
-_Originally published on [Medium](https://medium.com/@msyvr/how-medical-imaging-works-59e116ecdbe5) in 2018_
+#### Originally published on [Medium](https://medium.com/@msyvr/how-medical-imaging-works-59e116ecdbe5) in 2018

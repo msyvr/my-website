@@ -15,7 +15,7 @@ resources:
 math:
   enable: true
 ---
-
+#### &#127793; draft &#127793;
 
 ## Resources
 ### Backprop
@@ -35,14 +35,3 @@ math:
 [Machine Learning for Synthetic Data Generation: A Review](https://arxiv.org/abs/2302.04062)
 
 [Cosmopedia\: how to create large\-scale synthetic data for pre\-training Large Language Models](https://huggingface.co/blog/cosmopedia "Cosmopedia: how to create large-scale synthetic data for pre-training Large Language Models")
-
-## Practice projects
-### Karpathy: Micrograd
-[karpathy/micrograd: A tiny scalar\-valued autograd engine and a neural net library on top of it with PyTorch-like API (github)](https://github.com/karpathy/micrograd)
-
-[The spelled\-out intro to neural networks and backpropagation: building micrograd (YouTube)](https://www.youtube.com/watch?v=VMj-3S1tku0)
-
-[Karpathy on Micrograd: "These 94 lines of code are everything that is needed to train a neural network. Everything else is just efficiency."](https://x.com/karpathy/status/1803963383018066272)
-
-### Karpathy: [Neural networks: zero to hero](https://www.youtube.com/watch?v=VMj-3S1tku0&list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ)
-[Implement GPT2](https://www.youtube.com/watch?v=l8pRSuU81PU)

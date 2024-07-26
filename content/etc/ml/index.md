@@ -33,3 +33,13 @@ math:
 ## Interpretability
 ### Experiments in reverse-engineering models
 [OthelloGPT learned a bag of heuristics — LessWrong](https://www.lesswrong.com/posts/gcpNuEZnxAPayaKBY/othellogpt-learned-a-bag-of-heuristics-1)
+
+## Practice projects
+### Karpathy: Micrograd
+[karpathy/micrograd: A tiny scalar\-valued autograd engine and a neural net library on top of it with PyTorch-like API (github)](https://github.com/karpathy/micrograd)
+
+[The spelled\-out intro to neural networks and backpropagation: building micrograd (YouTube)](https://www.youtube.com/watch?v=VMj-3S1tku0)
+
+
+### Karpathy: [Neural networks: zero to hero](https://www.youtube.com/watch?v=VMj-3S1tku0&list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ)
+[Implement GPT2](https://www.youtube.com/watch?v=l8pRSuU81PU)

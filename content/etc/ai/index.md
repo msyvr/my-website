@@ -16,7 +16,21 @@ math:
   enable: true
 ---
 
-[Yann LeCun - A Path Towards Autonomous Machine Intelligence](https://www.youtube.com/watch?v=OKkEdTchsiE)
-
+## Responsible AI
 ### Safety
 [Situational awareness: The Decade Ahead (Aschenbrenner 2024)](https://situational-awareness.ai/)
+
+### Interpretability
+[Mechanistic Interpretability for AI Safety A Review](https://arxiv.org/html/2404.14082v1 "Mechanistic Interpretability for AI Safety A Review")
+
+### Progress
+
+[Yann LeCun - A Path Towards Autonomous Machine Intelligence](https://www.youtube.com/watch?v=OKkEdTchsiE)
+
+[Reasoning through arguments against taking AI safety seriously: Yoshua Bengio 2024.07.09](https://yoshuabengio.org/2024/07/09/reasoning-through-arguments-against-taking-ai-safety-seriously/)
+
+[Towards a Cautious Scientist AI with Convergent Safety Bounds: Yoshua Bengio 2024.02.26](https://yoshuabengio.org/2024/02/26/towards-a-cautious-scientist-ai-with-convergent-safety-bounds/)
+
+## Defining AGI
+
+[Karpathy tweet 2024.03.18](https://x.com/karpathy/status/1769767792444866958)
