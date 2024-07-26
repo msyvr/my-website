@@ -3,6 +3,8 @@ languageCode = "en-us"
 languageName = "English"
 title = "Monica Spisar"
 theme = "loveit"
+
+summaryLength = 10
 footnotereturnlinkcontents = "↩"
 
 [menu]
@@ -23,24 +25,6 @@ footnotereturnlinkcontents = "↩"
     name = "Etc"
     url = "/etc/"
     title = ""
-
-  # [[menu.main]]
-  #   weight = 20
-  #   identifier = "tags"
-  #   pre = ""
-  #   post = ""
-  #   name = "Tags"
-  #   url = "/tags/"
-  #   title = ""
-
-  # [[menu.main]]
-  #   weight = 30
-  #   identifier = "categories"
-  #   pre = ""
-  #   post = ""
-  #   name = "Categories"
-  #   url = "/categories/"
-  #   title = ""
 
   [[menu.main]]
     weight = 40
@@ -95,10 +79,8 @@ footnotereturnlinkcontents = "↩"
   author = "Monica Spisar"
   link = "https://monicaspisar.com"
   title = "Monica Spisar"
-  description = "Monica's website"
-# site default theme ["auto", "light", "dark"]
+  description = "Monica Spisar's website"
   defaultTheme = "auto"
-
 
   [params.header]
     [params.header.title]
@@ -112,13 +94,16 @@ footnotereturnlinkcontents = "↩"
     hugo = false
     copyright = true
     author = true
+    name = true
     since = 2024
-    license= '<a rel="license external nofollow noopener noreffer" href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank">CC BY-NC 4.0</a>'
-    custom = '<a href="https://www.recurse.com/"><img width="30px" src="/rc_static.svg"></img></a>'
+    license= '<a rel="license external nofollow noopener noreffer" href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank">CC BY-NC 4.0 |</a> <a href="https://www.recurse.com/">&#x2661 <img width="10px" src="/rc_static.svg"> &#x2661</img></a>'
 
 [params.section]
   paginate = 25
   dateFormat = "01-02"
+
+[params.list]
+  paginate = 25
 
 [params.app]
   title = "Monica Spisar"
@@ -127,6 +112,11 @@ footnotereturnlinkcontents = "↩"
   enable = false # TODO
 
 [params.home]
+
+  [params.home.posts]
+    paginate = 25
+
+
   [params.home.profile]
     enable = false
     gravatarEmail = "monicaspisar@gmail.com"
@@ -144,7 +134,7 @@ footnotereturnlinkcontents = "↩"
 
   [params.page]
     [params.page.toc]
-      enable = true
+      enable = false
 
     [params.page.code]
       maxShownLines = -1

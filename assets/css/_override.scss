@@ -59,6 +59,13 @@ body {
                 font-weight: bolder !important;
                 margin-bottom: 0.05rem;
             }
+            h4 {
+                font-size: .7rem !important;
+                font-weight: lighter !important;
+            }
+            > h4 > .header-mark::before {
+                content: "" !important;
+            }
         }
     }
     .toc {
