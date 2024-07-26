@@ -26,6 +26,13 @@ math:
 
 ---
 
+## Software tools
+
+- [Einops](https://einops.rocks/)
+- [Einops in 30 seconds (Medium)](https://medium.com/@kyeg/einops-in-30-seconds-377a5f4d641a)
+
+---
+
 ## Topics
 
 ### Linear algebra
@@ -47,9 +54,3 @@ math:
 ### Complex numbers
 - [Imaginary numbers are not Real: The geometric algebra of space-time (pdf)](https://worrydream.com/refs/Gull_1993_-_Imaginary_Numbers_are_not_Real.pdf)
 
-## Software tools
-
-- [Einops](https://einops.rocks/)
-  - [Einops in 30 seconds (Medium)](https://medium.com/@kyeg/einops-in-30-seconds-377a5f4d641a)
-
-## Complex numbers

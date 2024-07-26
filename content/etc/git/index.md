@@ -16,28 +16,24 @@ math:
   enable: true
 ---
 
-## Fringe
+### Fringe
 - [Obscure but useful Git incantations](https://legends2k.github.io/note/git_nuances/)
 
-## The hard parts
+---
+
+### The hard parts
 - [Git, detached HEAD - Flavio Copes](https://flaviocopes.com/git-detached-head/)
 
-## Some standard Git workflows
+---
 
-### Adding the current commit to an earlier commit where...
+### Some standard Git workflows
 
-- target commit = most recent commit:
-```bash
-git commit --amend
-```
-
-- target commit < most recent commit:
+Adding the current commit to an earlier commit where _target commit < most recent commit_:
 ```bash
 git commit --fixup=<commit hash>
 git rebase -i --autosquash main
 ```
-(alternately...)
+(alternately, use an identifier from the target message)
 ```bash
-git commit --fixup :/<some-identifying-word-from-target-commit-message>
-git rebase -i --autosquash main
+git commit --fixup :/<some-identifying-text-from-target-commit-message>
 ```
