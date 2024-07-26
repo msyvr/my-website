@@ -28,7 +28,7 @@ math:
 
 ### Some standard Git workflows
 
-Adding the current commit to an earlier commit where _target commit < most recent commit_:
+Combining the current commit with an earlier commit where _target commit < most recent commit_:
 ```bash
 git commit --fixup=<commit hash>
 git rebase -i --autosquash main

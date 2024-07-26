@@ -10,7 +10,7 @@ categories: []
 
 I started my career in academia and am an author on a dozen or so peer-reviewed publications and conference papers.
 
-[>> my Google scholar author page](https://scholar.google.com/citations?user=o6HuOMAAAAAJ&hl=en)
+[>> my Google Scholar author page](https://scholar.google.com/citations?user=o6HuOMAAAAAJ&hl=en)
 
 #
 After completing an undergraduate degree in physics ([University of Toronto](https://www.utoronto.ca/), BSc), I earned a graduate degree in engineering ([University of Michigan](https://www.engin.umich.edu/), PhD). My doctoral research was in the field of medical imaging; specifically, optical detection of ultrasound.

@@ -1,10 +1,10 @@
 ---
-title: 'Machine learning'
+title: 'Machine learning models'
 date: 2024-07-24T18:31:26-07:00
 draft: false
 author: "Monica Spisar"
 authorLink: "https://monicaspisar.com"
-description: 'Resources: Machine learning'
+description: 'Resources: Machine learning models'
 images: 
 - "/posts/.../....png"
 tags: []

@@ -32,7 +32,7 @@ While James reads a book outside a cafe in SF, a magician tries to entice James 
 
 And, thus, James sets out to encourage us to join him in being rationally skeptical; to question, to never accept on face value - well, anything, presumably, but particularly that which seems too good to be true.
 
-James dives straight into questioning the validity of machine learning's renown, likening it to an 'inverse fight club' where the first rule of ML fight club is that one must talk about fight club, and the "second rule: let's not fight because we all agree M.L. is awesome." Yay! Until one realizes that, with only the slightest of modifications, machine learning propaganda might easily be mistaken for the next Orwellian frontier.
+James dives straight into questioning the validity of machine learning's renown, likening it to an 'inverse fight club' where the first rule of ML fight club is that one must talk about fight club, and the "second rule: let's not fight because we all agree ML is awesome." Yay! Until one realizes that, with only the slightest of modifications, machine learning propaganda might easily be mistaken for the next Orwellian frontier.
 
 ![orwell](mickens-orwell.png "...")
 

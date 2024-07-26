@@ -37,7 +37,7 @@ Notes in the works!
 ---
 
 ## Additional resources
-- See also: [Machine learning](https://monicaspisar.com/notes/ml/)
+- See also: [Machine learning](https://monicaspisar.com/etc/ml-models/)
 
 [CMU: Intro to machine learning](https://www.cs.cmu.edu/~./15780/notes/ml_basics.html#intro-to-machine-learning)
 

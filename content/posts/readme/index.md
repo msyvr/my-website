@@ -6,7 +6,7 @@ author: "Monica Spisar"
 authorLink: "https://monicaspisar.com"
 description: 'README'
 images: 
-- "/notes/.../....png"
+- "/etc/.../....png"
 tags: []
 categories: []
 resources:

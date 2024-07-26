@@ -28,8 +28,9 @@ math:
 - [Mara's blog](https://blog.m-ou.se/)
 - [Aria Beingessner's blog](https://faultlore.com/blah/)
   - [The Rustonomicon](https://doc.rust-lang.org/nightly/nomicon/)
-- [Why async Rust\?](https://without.boats/blog/why-async-rust/ "Why async Rust?")
-- [The Pin type](https://without.boats/blog/pin/ "Pin")
+- [Why async Rust\?](https://without.boats/blog/why-async-rust/)
+- [The Pin type](https://without.boats/blog/pin/)
+- [Revisiting a \'smaller Rust\'](https://without.boats/blog/revisiting-a-smaller-rust/)
 - [Yet Another Rust Resource](https://yarr.fyi/)
 - [Learn Rust by implementing linked lists](https://rust-unofficial.github.io/too-many-lists/)
 
