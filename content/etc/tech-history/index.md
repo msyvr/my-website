@@ -16,7 +16,7 @@ math:
   enable: true
 ---
 
-## Information theory
+### Information theory
 
 [George Boole Develops Boolean Algebra](https://www.historyofinformation.com/detail.php?id=479)
 
@@ -26,7 +26,7 @@ math:
 [How Claude Shannon Helped Kick-start Machine Learning](https://spectrum.ieee.org/claude-shannon-information-theory)
 - [A chess playing machine](https://www.paradise.caltech.edu/ist4/lectures/shannonchess1950.pdf)
 
-## Semiconductors
+### Semiconductors
 
 [Early Silicon Valley (PBS)](https://www.pbs.org/wgbh/americanexperience/features/silicon-timeline-silicon/)
 
@@ -34,20 +34,14 @@ math:
 
 [Lynn Conway](https://news.engin.umich.edu/2014/10/life-engineered/)
 
-## Operating systems
+### Operating systems
 
 [Unix](https://unix.org/what_is_unix/history_timeline.html)
 
 [Linux](https://arstechnica.com/information-technology/2015/08/how-linux-was-born-as-told-by-linus-torvalds-himself/)
 
-## Tech origin stories
+### Tech origin stories
 
 [The Traitorous Eight](https://en.wikipedia.org/wiki/Traitorous_eight)
 
 [Alan Kay's talk at UCLA 2024 Feburary 21st.](https://youtu.be/dZQ7x0-MZcI)
-
-<!-- >Less-ancient history
-
-[Google](https://new.nsf.gov/news/origins-google)
-
-[From Sun to Oxide with Bryan Cantrill \(Changelog Interviews \#592\)](https://changelog.com/podcast/592 "From Sun to Oxide with Bryan Cantrill \(Changelog Interviews #592\)") -->

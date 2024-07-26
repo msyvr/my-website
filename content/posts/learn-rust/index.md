@@ -19,7 +19,7 @@ math:
 #### &#127793; draft &#127793;
 One of my 2024 batch goals at [Recurse](https://recurser.com) is to learn Rust. 
 
-## How? 
+## The plan
 - work through three introductory Rust resources
   - [The Rust Book](https://doc.rust-lang.org/book/)
   - [Rustlings](https://rustlings.cool/)

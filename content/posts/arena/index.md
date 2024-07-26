@@ -36,16 +36,11 @@ Notes in the works!
 
 ---
 
-A definitely-not-comprehensive list of additional ML learning resources that either provided a deeper look into certain concepts or just some additional perspective:
+## Additional resources
+- See also: [Machine learning](https://monicaspisar.com/notes/ml/)
 
-### University courses
 [CMU: Intro to machine learning](https://www.cs.cmu.edu/~./15780/notes/ml_basics.html#intro-to-machine-learning)
 
-### Machine learning models from scratch
 [Neural networks: zero to hero (Karpathy)](https://karpathy.ai/zero-to-hero.html)
 
-### Linear regression
 [Google: ML crash course: Linear regression](https://developers.google.com/machine-learning/crash-course/descending-into-ml/linear-regression)
-
-## Beyond ARENA: Further reading
-My more extensive (through relatively random) machine learning resources page: [Machine learning](https://monicaspisar.com/notes/ml/)

@@ -116,7 +116,6 @@ footnotereturnlinkcontents = "↩"
   [params.home.posts]
     paginate = 25
 
-
   [params.home.profile]
     enable = false
     gravatarEmail = "monicaspisar@gmail.com"
@@ -134,7 +133,7 @@ footnotereturnlinkcontents = "↩"
 
   [params.page]
     [params.page.toc]
-      enable = false
+      enable = true
 
     [params.page.code]
       maxShownLines = -1

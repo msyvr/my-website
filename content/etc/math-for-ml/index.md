@@ -16,7 +16,7 @@ math:
   enable: true
 ---
 
-## Books
+### Books
 - [Mathematics for Machine Learning (.pdf)](https://mml-book.github.io/book/mml-book.pdf "Mathematics for Machine Learning - mml-book.pdf")
 - [Deep Learning, Part I: Applied Math and Machine Learning Basics](https://www.deeplearningbook.org/)
   - [Linear algebra](https://www.deeplearningbook.org/contents/linear_algebra.html)
@@ -26,14 +26,12 @@ math:
 
 ---
 
-## Software tools
+### Software tools
 
 - [Einops](https://einops.rocks/)
 - [Einops in 30 seconds (Medium)](https://medium.com/@kyeg/einops-in-30-seconds-377a5f4d641a)
 
 ---
-
-## Topics
 
 ### Linear algebra
 - [Computational linear algebra (fast.ai)](https://www.fast.ai/posts/2017-07-17-num-lin-alg.html)

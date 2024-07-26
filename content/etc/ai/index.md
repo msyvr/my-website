@@ -31,6 +31,8 @@ math:
 
 [Towards a Cautious Scientist AI with Convergent Safety Bounds: Yoshua Bengio 2024.02.26](https://yoshuabengio.org/2024/02/26/towards-a-cautious-scientist-ai-with-convergent-safety-bounds/)
 
+---
+
 ## Defining AGI
 
 [Karpathy tweet 2024.03.18](https://x.com/karpathy/status/1769767792444866958)

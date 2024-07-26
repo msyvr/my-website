@@ -16,13 +16,13 @@ math:
   enable: true
 ---
 
-## Python
+### Python
 - [Andrew Montalenti's blog: Python posts](https://amontalenti.com/?s=python)
 - [MIT6.100L Intro to CS and Programming Using Python](https://ocw.mit.edu/courses/6-100l-introduction-to-cs-and-programming-using-python-fall-2022/download/)
 
 ---
 
-## Rust
+### Rust
 
 - [saoirse@without.boats](https://without.boats/)
 - [Mara's blog](https://blog.m-ou.se/)
@@ -35,6 +35,6 @@ math:
 
 ---
 
-## Go
+### Go
 - [Francesc Campoy Flores](https://www.campoy.cat/blog/)
 

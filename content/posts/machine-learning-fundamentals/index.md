@@ -17,7 +17,6 @@ math:
 ---
 #### &#127793; draft &#127793;
 
-## Resources
 ### Backprop
 [The paper that started it all: Letters to Nature: Learning representation by back-propagating errors (pdf)](https://www.cs.toronto.edu/~hinton/absps/naturebp.pdf)
 
