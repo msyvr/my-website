@@ -1,10 +1,10 @@
 ---
-title: 'Git wizardry'
+title: 'Git'
 date: 2024-07-23T12:08:06-07:00
 draft: false
 author: "Monica Spisar"
 authorLink: "https://monicaspisar.com"
-description: 'Resources: Git wizardry'
+description: 'Resources: Git'
 images: 
 - "/posts/.../....png"
 tags: []

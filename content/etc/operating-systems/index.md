@@ -16,7 +16,6 @@ math:
   enable: true
 ---
 
-### Courses
 [Stanford cs140e](https://cs140e.sergio.bz/syllabus/)
 
 [CMU 15-410](https://www.cs.cmu.edu/~410/)

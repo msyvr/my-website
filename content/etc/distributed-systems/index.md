@@ -16,5 +16,6 @@ math:
   enable: true
 ---
 
-### Courses
 [Specification and Verification of Distributed Protocols: Kapritsos @UMich](https://glados-michigan.github.io/verification-class/2022/)
+
+[Raft Consensus Algorithm](https://raft.github.io/ "Raft Consensus Algorithm")

@@ -20,7 +20,7 @@ _This post shares a bit about the translational geroscience portfolio I nurtured
 
 ## Building a translational geroscience portfolio
 
-In 2019, I joined the University of Oxford as Scientific Liaison on a project aiming to accelerate the development of drugs targeting biological drivers of aging. The overarching project was part of a broader program to nurture collaborations across sectors - academia, industry, government, charities. Merging that with drug discovery for aging involved digging deep not only into the scientific and drug discovery challenges of translating early-stage geroscience research, but also into the types of resource and knowledge exchange initiatives that would accelerate the route to clinic for promising interventions.
+In 2019, I joined the University of Oxford as Scientific Liaison on a project aiming to accelerate the development of drugs targeting biological drivers of aging. The overarching project was part of a broader program to nurture collaborations across sectors - academia, industry, government, non-profits. Merging that with drug discovery for aging involved digging deep not only into the scientific and drug discovery challenges of translating early-stage geroscience research, but also into the types of resource and knowledge exchange initiatives that would accelerate the route to clinic for promising interventions.
 
 The team operated in startup-ish style with a short timeline (mid-2021 end date), limited operating resources, and a small distributed team. Our ability to be nimble and act independently (and with urgency) was ‘balanced’ by having five distributed UK institutions as core stakeholders, each of which was an invaluable resource and partner.
 

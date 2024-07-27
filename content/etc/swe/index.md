@@ -15,6 +15,7 @@ resources:
 math:
   enable: true
 ---
+#### - swe-related items that don't quite fit elsewhere -
 
 ### Abstraction
 [Up and Down the Ladder of Abstraction](https://worrydream.com/LadderOfAbstraction/ "Up and Down the Ladder of Abstraction")

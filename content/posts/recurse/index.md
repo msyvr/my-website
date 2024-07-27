@@ -1,10 +1,10 @@
 ---
-title: 'Recurse Center'
+title: 'Recurse Center fka Hacker School'
 date: 2024-07-23T11:00:17-07:00
 draft: false
 author: "Monica Spisar"
 authorLink: "https://monicaspisar.com"
-description: 'Recurse Center'
+description: 'Recurse Center fka Hacker School'
 images: 
 - "/posts/.../....png"
 tags: []

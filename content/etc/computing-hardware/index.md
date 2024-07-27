@@ -16,5 +16,4 @@ math:
   enable: true
 ---
 
-### Computer internals
 [Oxide & Friends: CPU vs GPU vs vs FPGA vs ASIC?](https://youtu.be/7hF9AM8LM4c)

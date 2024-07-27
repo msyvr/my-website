@@ -17,7 +17,7 @@ math:
 ---
 
 #### &#127793; draft &#127793;
-One of my 2024 batch goals at [Recurse](https://recurser.com) is to learn Rust. 
+One of my 2024 batch goals at [Recurse](https://recurse.com) is to learn Rust. 
 
 ## The plan
 - work through three introductory Rust resources
@@ -26,10 +26,10 @@ One of my 2024 batch goals at [Recurse](https://recurser.com) is to learn Rust.
   - [Yet Another Rust Resource](https://yarr.fyi/))
 - implement a small project in Rust
 
-## Public repos with solutions
+## Progress
 - [msyvr/rusty](https://github.com/msyvr/rusty)
 - [msyvr/rustlings](https://github.com/msyvr/rustlings)
 - [msyvr/yarry](https://github.com/msyvr/yarry)
 
-## Learning notes
+<!-- ## Learning notes -->
 

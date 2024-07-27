@@ -12,7 +12,7 @@ resources:
 
 ---
 
-Trained as a physicist and engineer, I now enjoy tackling software engineering challenges. Lately, I've been learning as much as I can about machine learning, specifically focusing on [AI alignment](https://en.wikipedia.org/wiki/AI_alignment) and [mechanistic interpretability](https://arxiv.org/html/2404.14082v1).
+Trained as a physicist and engineer, I now enjoy tackling software engineering challenges. Lately, I've been digging into the foundations of machine learning models, and techniques for their interpretation and evaluation - specifically, focusing on [AI alignment](https://en.wikipedia.org/wiki/AI_alignment) and [mechanistic interpretability](https://arxiv.org/html/2404.14082v1).
 
 My career has spanned research, entrepreneurship, running brick and mortar businesses, and leading teams and technical projects at both startups and small-ish orgs embedded in large institutions.
 
