@@ -1,6 +1,6 @@
 ---
 title: 'Medium and Substack (old) posts'
-date: 2021-01-01T19:02:34-07:00
+date: 2021-10-01T19:02:34-07:00
 draft: false
 author: "Monica Spisar"
 authorLink: "https://monicaspisar.com"

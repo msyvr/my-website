@@ -1,7 +1,7 @@
 ---
 title: 'Data'
 date: 2024-07-26T11:57:34-07:00
-draft: true
+draft: false
 author: "Monica Spisar"
 authorLink: "https://monicaspisar.com"
 description: 'Resources: Data'
