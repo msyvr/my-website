@@ -34,5 +34,5 @@ At the very start of my PhD, I worked on scintillation (gamma) cameras for early
 I also spent a year as a postdoctoral researcher at [Université Pierre et Marie Curie (UPMC)](https://en.wikipedia.org/wiki/Pierre_and_Marie_Curie_University) aka Université Paris VI, now part of [Sorbonne Université](https://en.wikipedia.org/wiki/Sorbonne_University). There, I led a project on ultrasound imaging of tumor angiogenesis.
 
 #
-![cordeliers](cordeliers.jpg "Campus des Cordeliers, Sorbonne Université, Paris")
+![cordeliers](/images/cordeliers.jpg "Campus des Cordeliers, Sorbonne Université, Paris")
 <!-- >[Campus des Cordeliers](https://www.sorbonne-universite.fr/universite/location-despaces/espaces-du-campus-des-cordeliers) -->

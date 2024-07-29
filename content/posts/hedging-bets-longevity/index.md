@@ -11,7 +11,7 @@ tags: []
 categories: []
 resources:
 - name: "oxford"
-  src: "oxford_logo.png"
+  src: "/images/oxford_logo.png"
 math:
   enable: true
 ---
@@ -93,6 +93,6 @@ If you’d like more information about an individual project, or to follow up on
 
 ---
 
-![oxford](oxford_logo.png "...")
+![oxford](/images/oxford_logo.png "...")
 
 #### Originally published on [Substack](https://gamingaging.substack.com/p/a-mixed-geroscience-portfolio-project) in 2021

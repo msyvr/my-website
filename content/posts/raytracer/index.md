@@ -11,7 +11,7 @@ tags: []
 categories: []
 resources:
 - name: "shadowsdiffuse"
-  src: "example_shadowsdiffuse.png"
+  src: "/images/example_shadowsdiffuse.png"
 math:
   enable: true
 ---
@@ -26,7 +26,7 @@ In the course of exploring photorealistic image generation for movies and games,
 
 I wrote my [ray tracer](https://github.com/msyvr/raytracer/blob/main/main.py) in python as I was learning that language at the time. It simulates in-scene light interactions, including diffuse surface scattering (Lambertian) and reflection/refraction (Fresnel, computed recursively). 
 
-![shadowsdiffuse](example_shadowsdiffuse.png "Raytracing from scratch in Python") 
+![shadowsdiffuse](/images/example_shadowsdiffuse.png "Raytracing from scratch in Python") 
 
 The code isn't performance optimized, nor architected to leverage GPU capabilities. I nonetheless got a rapid fire intro to real world implementations of ray and path tracing - there's some extremely cool research in that space!
 

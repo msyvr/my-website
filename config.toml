@@ -85,7 +85,6 @@ footnotereturnlinkcontents = "↩"
   [params.header]
     [params.header.title]
       logo = ""
-      pre = ""
       name = "Monica Spisar"
       typeit = false
   
@@ -96,7 +95,7 @@ footnotereturnlinkcontents = "↩"
     author = true
     name = true
     since = 2024
-    license= '<a rel="license external nofollow noopener noreffer" href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank">CC BY-NC 4.0 |</a> <a href="https://www.recurse.com/">&#x2661 <img width="10px" src="/rc_static.svg"> &#x2661</img></a>'
+    license= '<a rel="license external nofollow noopener noreffer" href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank">CC BY-NC 4.0 |</a> <a href="https://www.recurse.com/">&#x2661 <img width="10px" src="/images/rc_static.svg"> &#x2661</img></a>'
 
 [params.section]
   paginate = 25
@@ -117,8 +116,9 @@ footnotereturnlinkcontents = "↩"
     paginate = 25
 
   [params.home.profile]
-    enable = false
-    gravatarEmail = "monicaspisar@gmail.com"
+    enable = true
+    avatarURL = "/images/Avatar_ms_bw.png"
+    # gravatarEmail = "monicaspisar@gmail.com"
     subtitle = ""
     typeit = false
     social = true
@@ -126,9 +126,9 @@ footnotereturnlinkcontents = "↩"
   [params.social]
     LinkedIn = "https://linkedin.com/in/monicaspisar"
     GitHub = "msyvr"
-    Email = "monicaspisar@gmail.com"
+    Email = "msyvrr@gmail.com"
     Twitter = "msyvr"
-    RSS = true
+    RSS = false
     Recurse = ""
 
   [params.page]

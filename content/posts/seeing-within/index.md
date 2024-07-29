@@ -20,7 +20,7 @@ math:
 
 Much of the complexity of the human body is shrouded in mystery. But we know a lot more than we used to about its structure and function. Structure (anatomy), in particular, has been mapped out in meticulous detail. In the distant past, building up static anatomical maps relied on information from dissections. Yeah, gross. Also, pretty much useless to a live person needing guidance for treatment of injury or disease, or for monitoring a chronic condition. Of course, we now have alternatives to dissection. Whew. So, how does that seeing within work?
 #
-![go](go.jpg "...")
+![go](/images/go.jpg "...")
 
 Humans perceive the world via our senses, one of which is sight. Our eyes respond to light, and the kind of light humans can see just doesn't make it far past the surface of the body. It's strongly attenuated via absorption and scattering in skin, fat, muscle, bone, and connective tissues. Basically, the kind of light humans can see - visible light - dies trying to get in; our eyes perceive only the very top surface. Sorry about that. (Or maybe not!) But…
 
@@ -30,7 +30,7 @@ To answer that, let's talk a bit about how humans see. Our eyes are set up to re
 
 ## Reflecting on the world
 
-![candlelight](candlelight.jpg "...")
+![candlelight](/images/candlelight.jpg "...")
 
 It's not often that we look directly at a source of light. Candles, sure, but sources of light like the sun or a lightbulb tend to be too intense to look at without feeling uncomfortable (or being blinded). And, anyhow, we want to look around and see everything, not just sources of light. So, what we mostly look at (except when looking at our device screens; okay, it's a big 'except'…) are secondary sources of light - objects that redirect light from primary sources.
 
@@ -42,7 +42,7 @@ Okay, back to looking inside bodies. To avoid putting needles or other material 
 
 Picture some gentle water waves in the ocean. So soothing. Or, picture some monster waves you're dying to shred. Take your pick. Either way, like water waves, the physics-y waves in medical imaging have an amplitude (height of the peak of the wave) and phase (the part of the wave you're at: the peak, the trough, or somewhere in between). Importantly, they also have a length: the distance from one peak to the next. (It wouldn't be a wave if it didn't repeat that way and have a more-or-less constant peak-to-peak distance.) Since we're talking about a wave, that length is called a wavelength.
 #
-![wavesketch](wavesketch.jpg "...")
+![wavesketch](/images/wavesketch.jpg "...")
 
 Now - the key point about waves is that they can store and transport information in their amplitude, phase, and wavelength. A wave travelling uninterrupted from source to detector will have a different signature than one which has interactions along the way. Different types of interactions will have different effects on the amplitude, phase, or wavelength - and those effects can be unrolled to create a map (image) of those interactions.
 
@@ -58,7 +58,7 @@ Electromagnetic and pressure (aka acoustic) waves tuned to the right wavelengths
 
 Now, think about this: if you look into a mirror and your image isn't distorted, you know that the mirror is flat and smooth. That may not be an entirely obvious thing since you arrive at that knowledge through inference. You're not looking at the surface itself, but you infer something about the surface because of the way your reflection looks. If you see a warped image, you know that the mirror is bumpy/curved/not flat. Think hall of mirrors.
 #
-![picasso](picasso.jpg "...")
+![picasso](/images/picasso.jpg "...")
 
 What you see tells you something about the surface that redirected the light to your eyes. (Note that a single point reflected won't tell you much about either a flat or a warped mirror. You need an image.)
 
@@ -76,7 +76,7 @@ You probably noticed that MRI was conspicuously missing from the list. That was 
 
 ## Spin up, spin down
 
-![tops](tops.gif "...")
+![tops](/images/tops.gif "...")
 
 Let's think about tops for a minute. You get a simple top spinning by applying an angular force. How the top spins depends on the particular top: its material, its mass, its shape. If the top were behind a glass partition and you couldn't pick it up to inspect it yourself, you could probably make some decent guesses about the top's characteristics by the way it spins.
 
