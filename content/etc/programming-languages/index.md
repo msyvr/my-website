@@ -20,6 +20,9 @@ math:
 - [Andrew Montalenti's blog: Python posts](https://amontalenti.com/?s=python)
 - [MIT6.100L Intro to CS and Programming Using Python](https://ocw.mit.edu/courses/6-100l-introduction-to-cs-and-programming-using-python-fall-2022/download/)
 
+#### ... for web apps?
+- [FastHTML \- Modern web applications in pure Python](https://fastht.ml/)
+
 ---
 
 ### Rust
@@ -41,3 +44,8 @@ math:
 
 - [rakyll\.org](https://rakyll.org/)
 
+---
+
+### Zig
+
+... aspirational, haven't actually used zig yet

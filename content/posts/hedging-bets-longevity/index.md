@@ -20,15 +20,32 @@ _This post shares a bit about the translational geroscience portfolio I nurtured
 
 ## Building a translational geroscience portfolio
 
+### Context
 In 2019, I joined the University of Oxford as Scientific Liaison on a project aiming to accelerate the development of drugs targeting biological drivers of aging. The overarching project was part of a broader program to nurture collaborations across sectors - academia, industry, government, non-profits. Merging that with drug discovery for aging involved digging deep not only into the scientific and drug discovery challenges of translating early-stage geroscience research, but also into the types of resource and knowledge exchange initiatives that would accelerate the route to clinic for promising interventions.
 
 The team operated in startup-ish style with a short timeline (mid-2021 end date), limited operating resources, and a small distributed team. Our ability to be nimble and act independently (and with urgency) was ‘balanced’ by having five distributed UK institutions as core stakeholders, each of which was an invaluable resource and partner.
 
-My primary responsibility was to seed and develop a ~$1.2M portfolio which a) touched on a variety of biological drivers of aging, b) represented projects in the ‘unfundable’ zone between basic science research and clinical validation, and c) spanned the drug discovery pipeline or supported the drug discovery process (e.g., new tech for screening platforms). (Our PI - the Vice Chancellor of Innovation - had done a long stint leading drug discovery efforts in industry, and our distributed stakeholders mapped out a virtual drug discovery pipeline - so drug discovery was our focus.)
+### Sowing seeds
 
-The ‘Bridge’ portfolio I nurtured into being ended up as an interesting mix - one that reflected the fascinating tension between geroscience folks who (mostly) don’t default to a disease-centric mindset and drug discovery folks who do. The management group representing our drug-discovery-oriented stakeholders had the final say on funding decisions: advocating for staying true to the geroscience hypothesis (vs defaulting to disease treatment objectives) was an education on the challenges geroscience and longevity interventions face in a broader context.
+My primary responsibility was to seed and develop a ~$1.2M portfolio which a) touched on a variety of biological drivers of aging, b) represented projects in the ‘unfundable’ zone between basic science research and clinical validation, and c) spanned the drug discovery pipeline or supported the drug discovery process (e.g., new tech for screening platforms).
 
-Our 2020 annual conference included [video overviews](https://www.kespine.org.uk/uk-spine-annual-conference-2020-bridge-program-e-posters) of the funded projects in my portfolio (also linked individually at the end of this post). For some higher-level background, I described the [motivation behind the portfolio in a post](https://www.kespine.org.uk/case-studies/uk-spine-proof-concept-programme) on the Oxford project website.
+At the time, the pool of academic researchers familiar with longevity science was limited. Thus, my challenge was to identify researchers whose interests and current research might align with the longevity hypothesis, initiate a conversation to explore possibilities, and collaboratively shape a research proposal to fit both the longevity research mandate and the researchers' scientific interests.
+
+Oxford's Vice Chancellor of Innovation, Chas Bountra, was our PI; Chas had done a long stint leading drug discovery efforts in industry, which likely contributed to our distributed stakeholders mapping out a virtual drug discovery pipeline. And, so, drug discovery was our focus, though all stages of the pipeline were fair game.
+
+### Tending the fields
+
+The Bridge Portfolio I nurtured into being emerged as an interesting mix - one that reflected the fascinating tension between geroscience folks who (mostly) don’t default to a disease-centric mindset and drug discovery folks who do.
+
+The management group representing our drug-discovery-oriented stakeholders had the final say on funding decisions: advocating for staying true to the geroscience hypothesis (vs defaulting to disease treatment objectives) was an education on the challenges geroscience and longevity interventions face in a broader context.
+
+### Harvest
+
+The majority of Bridge projects continued beyond the tenure of the program via new sources of funding. Drug discovery is a long process and one to two years is generally too short a time frame for significant results, particularly at the discovery stage. A subset of preliminary results are aligned with the findings of others in the longevity ecosystem, and will contribute to shaping direction whether or not they ultimately proceed to become interventions themselves.
+
+Bridge portfolio group meetings also generated new research collaborations. Those meetings were either free-form discussions, or anchored by invited speakers such as Richard Miller of the [Glenn Center for Aging Research](https://www.med.umich.edu/geriatrics/research/glenn/faculty/index.html).
+
+At the midway point of the program, the UK Spine 2020 annual conference included preliminary [video overviews](https://www.kespine.org.uk/uk-spine-annual-conference-2020-bridge-program-e-posters) of the funded projects in my portfolio (also linked individually at the end of this post). For some higher-level background, I described the [motivation behind the portfolio in a post](https://www.kespine.org.uk/case-studies/uk-spine-proof-concept-programme) on the Oxford project website.
 
 If you’d like more information about an individual project, or to follow up on progress, please [reach out](http://monicaspisar.com/) - I’ll be happy to connect you with the researcher.
 

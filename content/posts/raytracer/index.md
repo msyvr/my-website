@@ -16,7 +16,7 @@ math:
   enable: true
 ---
 
-During my first [Recurse Center](https://recurse.com") retreat in the fall of 2021, I worked on code craftsmanship and experimented with a variety of software engineering concepts. One tangent led me to writing a [ray tracing engine](https://github.com/msyvr/raytracer).
+During my first [Recurse Center](https://recurse.com") retreat in the fall of 2021, I learned Python (and just a little React), worked on code craftsmanship, and poked around to learn a bit about any aspects of computing I happened across during study sessions or while pairing with fellow Recursers. One tangent led me to writing a [ray tracing engine](https://github.com/msyvr/raytracer).
 
 ## GPUs rule
 
@@ -24,7 +24,7 @@ In the course of exploring photorealistic image generation for movies and games,
 
 ## No GPU, no problem... (?)
 
-I wrote my [ray tracer](https://github.com/msyvr/raytracer/blob/main/main.py) in python as I was learning that language at the time. It simulates in-scene light interactions, including diffuse surface scattering (Lambertian) and reflection/refraction (Fresnel, computed recursively). 
+I wrote my [ray tracer](https://github.com/msyvr/raytracer/blob/main/main.py) in Python since that was the language I was learning at the time. The logic simulates in-scene light interactions, including diffuse surface scattering (Lambertian) and reflection/refraction (Fresnel, computed recursively). 
 
 ![shadowsdiffuse](/images/example_shadowsdiffuse.png "Raytracing from scratch in Python") 
 

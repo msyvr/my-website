@@ -20,7 +20,7 @@ math:
 
 _Notes from [James Mickens' talk at USENIX Security '18](https://www.youtube.com/watch?v=ajGX7odA87k)._
 
-If you haven't seen James' talk and have an hour to view his actual keynote, please do yourself a favor and just go see his talk. It's entertaining, educational, and thought provoking. Absolutely not to be missed - the most fun you'll have while thinking about cybersecurity, machine learning, and computing more generally. Case in point, a fun still from his talk…
+If you haven't seen [James' talk](https://www.youtube.com/watch?v=ajGX7odA87k) and have an hour to view his actual keynote, please do yourself a favor and [just go see his talk](https://www.youtube.com/watch?v=ajGX7odA87k). It's entertaining, educational, and thought provoking. Absolutely not to be missed - the most fun you'll have while thinking about cybersecurity, machine learning, and computing more generally. Case in point, a fun still from his talk…
 
 ![dumpster](mickens-dumpsterfire.png "...")
 

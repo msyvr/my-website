@@ -16,7 +16,7 @@ math:
   enable: true
 ---
 ### Under the hood
-[Julia Evans' blog](https://jvns.ca/categories/git/ "Git") is a great resource for understanding how Git works.
+- [Julia Evans' blog](https://jvns.ca/categories/git/ "Git") is a great resource for understanding how Git works.
 
 ### Fringe
 - [Obscure but useful Git incantations](https://legends2k.github.io/note/git_nuances/)

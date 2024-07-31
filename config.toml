@@ -124,9 +124,9 @@ footnotereturnlinkcontents = "↩"
     social = true
 
   [params.social]
-    LinkedIn = "https://linkedin.com/in/monicaspisar"
+    LinkedIn = "monicaspisar"
     GitHub = "msyvr"
-    Email = "msyvrr@gmail.com"
+    Email = "monicaspisar@gmail.com"
     Twitter = "msyvr"
     RSS = false
     Recurse = ""

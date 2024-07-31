@@ -1,10 +1,10 @@
 ---
-title: 'Mainstreaming Longevity'
+title: 'Mainstreaming longevity'
 date: 2021-08-23T17:27:12-07:00
 draft: false
 author: "Monica Spisar"
 authorLink: "https://monicaspisar.com"
-description: 'Mainstreaming Longevity'
+description: 'Mainstreaming longevity'
 images: 
 - "/posts/.../....png"
 tags: []

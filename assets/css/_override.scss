@@ -9,7 +9,7 @@ header {
 
 body {
     font-weight: 250 !important;
-    font-size: 0.95rem !important;//0.95rem;
+    font-size: 0.95rem !important;
     line-height: 1.4rem !important;
     .page {
         .home {
@@ -27,24 +27,17 @@ body {
     }
     .page.archive {
         .single-title {
-            font-weight: bolder !important; // right-justified post title
+            font-weight: bolder !important;
         }
-        // .single-subtitle {
-        //     font-weight: lighter !important;
-        // }
         .group-title {
-            font-weight: lighter !important; // Posts list: year
+            font-weight: lighter !important;
         }
     }
     .single {
         .single-title {
                 font-size: 1.25rem !important;
-                font-weight: bolder !important; // home titles; page rj titles; page titles
-            }   
-        // .single-subtitle {
-        //     font-size: .9rem;
-        //     font-weight: lighter;
-        // }      
+                font-weight: bolder !important;
+            }        
         .content {
             h2 {
                 font-size: 1.1rem !important;

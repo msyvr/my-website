@@ -1,10 +1,10 @@
 ---
-title: 'ARENA: AI alignment'
+title: 'ARENA: AI interpretability'
 date: 2024-07-21T22:42:57-07:00
 draft: false
 author: "Monica Spisar"
 authorLink: "https://monicaspisar.com"
-description: 'ARENA: AI alignment'
+description: 'ARENA: AI interpretability'
 images: 
 - "/posts/.../....png"
 tags: []
@@ -17,7 +17,7 @@ math:
 ---
 #### &#127793; draft &#127793;
 
-During my second batch at [RC](https://recurse.com), I joined a study group to cover the materials from [Callum McDougall's](https://www.perfectlynormal.co.uk/) Alignment Research Engineer Accelerator aka [ARENA](https://arena.education) program which is normally delivered by [LISI: the London Initiative for Safe AI](https://www.safeai.org.uk/). ARENA is based on the [MLAB AI alignment bootcamp by Redwood Research](https://www.redwoodresearch.org/mlab). MLAB is not actively running any longer, but access to the curriculum can be requested at the link.
+During my second batch at [RC](https://recurse.com), I joined a study group to cover the materials from [Callum McDougall's](https://www.perfectlynormal.co.uk/) Alignment Research Engineer Accelerator aka [ARENA](https://arena.education) program which is normally delivered by [LISA: the London Initiative for Safe AI](https://www.safeai.org.uk/). ARENA is based on the [MLAB AI alignment bootcamp by Redwood Research](https://www.redwoodresearch.org/mlab). MLAB is not actively running any longer, but access to the curriculum can be requested at the link.
 
 Notes in the works!
 
@@ -37,7 +37,7 @@ Notes in the works!
 ---
 
 ## Additional resources
-- See also: [Machine learning](https://monicaspisar.com/etc/ml-models/)
+- See also: [Neural networks](https://monicaspisar.com/etc/neural-nets/)
 
 [CMU: Intro to machine learning](https://www.cs.cmu.edu/~./15780/notes/ml_basics.html#intro-to-machine-learning)
 

@@ -15,7 +15,12 @@ resources:
 math:
   enable: true
 ---
-#### - swe-related items that don't quite fit elsewhere -
+#### - the kitchen sink of swe links! -
+
+### Fundamentals
+[Architecture for generations – Increment\: Software Architecture](https://increment.com/software-architecture/architecture-for-generations/)
+
+[Teach Yourself Programming in Ten Years](https://norvig.com/21-days.html)
 
 ### Abstraction
 [Up and Down the Ladder of Abstraction](https://worrydream.com/LadderOfAbstraction/ "Up and Down the Ladder of Abstraction")

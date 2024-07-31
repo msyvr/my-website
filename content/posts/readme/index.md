@@ -19,7 +19,7 @@ Welcome to a new version of my site.
 In the past, I've used a few other platforms for (sporadically) posting my writing (see [Medium and Substack Posts](https://monicaspisar.com/notes/medium-and-substack-posts/)). I'm hoping that collecting everything in one place will lower the friction of posting, particularly small notes and reference links (see [Etc](https://monicaspisar.com/etc/)). In the [Recurse](https://monicaspisar.com/posts/recurse/) spirit, here's my small contribution to learning generously.
 
 ### &#128163; >> 
-The [Etc](https://monicaspisar.com/etc/) menu item is basically a bunch of random topics with links. Yes, it's a mess :)
+The [Etc](https://monicaspisar.com/etc/) menu item is basically a bunch of random topics with links. It's a (messy?) collection that's really just for me, but others may find useful tidbits in there from time to time :)
 
 ---
 

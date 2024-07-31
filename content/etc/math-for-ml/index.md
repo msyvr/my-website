@@ -16,7 +16,7 @@ math:
   enable: true
 ---
 
-### Books
+## Books
 - [Mathematics for Machine Learning (.pdf)](https://mml-book.github.io/book/mml-book.pdf "Mathematics for Machine Learning - mml-book.pdf")
 - [Deep Learning, Part I: Applied Math and Machine Learning Basics](https://www.deeplearningbook.org/)
   - [Linear algebra](https://www.deeplearningbook.org/contents/linear_algebra.html)
@@ -24,31 +24,84 @@ math:
   - [Numerical computation](https://www.deeplearningbook.org/contents/numerical.html)
   - [Machine learning basics](https://www.deeplearningbook.org/contents/ml.html)
 
----
-
-### Software tools
-
-- [Einops](https://einops.rocks/)
-- [Einops in 30 seconds (Medium)](https://medium.com/@kyeg/einops-in-30-seconds-377a5f4d641a)
-
----
-
-### Linear algebra
+## Linear algebra
 - [Computational linear algebra (fast.ai)](https://www.fast.ai/posts/2017-07-17-num-lin-alg.html)
 - [Introduction to linear algebra (Strang, MIT)](https://math.mit.edu/~gs/linearalgebra/ila6/indexila6.html)
 - [Linear algebra review and reference (Kolter/Do, Stanford)](https://cs229.stanford.edu/section/cs229-linalg.pdf)
 
-### Matrix manipulation
+## Matrix manipulation
 - [Practical deep learning for coders: matrix manipulation (fast.ai)](https://course.fast.ai/Lessons/lesson11.html)
 
-### Calculus
+## Calculus
 - [Practical deep learning for coders: backpropagation (fast.ai)](https://course.fast.ai/Lessons/lesson14.html)
 
-### Statistics
+## Statistics
 - [Review of probability theory (Maleki/Do, Stanford)](https://cs229.stanford.edu/section/cs229-prob.pdf)
 - [Probability course](https://www.probabilitycourse.com/)
 - [Statistics 110: probability](https://projects.iq.harvard.edu/stat110/home)
 
-### Complex numbers
+## Complex numbers
 - [Imaginary numbers are not Real: The geometric algebra of space-time (pdf)](https://worrydream.com/refs/Gull_1993_-_Imaginary_Numbers_are_not_Real.pdf)
+
+---
+
+## Software tools
+- [Numpy](https://numpy.org)
+
+- [Einops](https://einops.rocks/)
+
+- [Einops in 30 seconds (Medium)](https://medium.com/@kyeg/einops-in-30-seconds-377a5f4d641a)
+
+---
+## Syntax ref: Numpy einsum
+
+$a_m = m^{th} \text{ element of } \mathbf{a}$
+
+$\mathbf{a}_m = \sum_m{\mathbf{a}}$
+
+$\mathbf{a}_{(m)} =\text{ all of } \mathbf{a} \text{'s } m \text{ elements} $
+
+One-dimensional array:
+```
+>>> a = np.array([1, 2, 3, 4])
+>>> np.einsum("m->", a)
+10
+>>> np.einsum("m->m", a)
+array([1, 2, 3, 4])
+```
+One-dimensional arrays:
+```
+>>> a = np.array([1, 2, 3])
+>>> b = np.array([-4, 5, -6])
+>>> # dot product
+>>> a @ b
+-12
+>>> np.einsum("m,m->", a, b)
+-12
+>>> # Element-wise product
+>>> a * b
+array([-4, 10, -18])
+>>> np.einsum("m,m->m", a, b)
+array([-4, 10, -18])
+```
+Higher-dimension arrays:
+
+- Einsum form of $ A_{(i),m} B_{m,(j)} = im,mj -> ij $
+
+```
+>>> A = np.array([[1, 2], [-3, 4]])
+>>> B = np.array([[0, 1], [1, 0]])
+>>> A @ B
+array([[ 2,  1],
+       [ 4, -3]])
+>>> np.einsum("im,mj->ij", A, B)
+array([[ 2,  1],
+       [ 4, -3]])
+```
+
+---
+
+## Equations ref
+
+[Classical ML Equations in LaTeX](https://blmoistawinde.github.io/ml_equations_latex/#mean-squared-errormse)
 
