@@ -17,13 +17,17 @@ math:
 ---
 
 ## Responsible AI
-### Safety
+
+### Risks / safety
 [Situational awareness: The Decade Ahead (Aschenbrenner 2024)](https://situational-awareness.ai/)
 
 ### Interpretability
 [Mechanistic Interpretability for AI Safety A Review](https://arxiv.org/html/2404.14082v1 "Mechanistic Interpretability for AI Safety A Review")
 
-### Progress
+### Oversight & standards
+[Lessons from the FDA for AI - AI Now Institute](https://ainowinstitute.org/lessons-from-the-fda-for-ai)
+
+### Etc.
 
 [Yann LeCun - A Path Towards Autonomous Machine Intelligence](https://www.youtube.com/watch?v=OKkEdTchsiE)
 
