@@ -195,7 +195,58 @@ Recall that Rust has no garbage collector. The compiler tracks when memory shoul
   - ownership tracks when memory is valid and when it is dropped
 - lifetime is the time during which references to the variable are valid
 
-Ownership and lifetime are related. The lifetime of a reference is linked to the lifetime of its owner.
+Gedanken experiments:
+- What happens if variable `x` is defined in an outer scope, then initialized in an inner scope where a reference to `x` is assigned to a new variable `y`?
+  - Spoiler: The compiler will not be happy. Why? 
+- What happens if a function where a variable `x` is defined and initialized attempts to return a reference to `x`: `&x`.
+  - Spoiler: The compiler will not be happy. Why?
+
+In the above scenarios, the borrow checker comes into play. In C, the examples would compile, then lead to use-after-free errors. So, let's talk about a concept integral to the borrow checker: lifetimes.
+
+### Lifetimes
+
+- every reference is a borrow
+- each borrow has a lifetime: variable creation to destruction
+- lifetimes can be named; generally as `'a` but descriptive names okay, too
+
+```rust
+fn example<'a>(x: &'a u32) {
+  let y: &'a u32 = &x;
+}
+```
+
+- `<'a>` is for generics
+- here, the parameter `x` is a reference of the lifetime `<'a>`
+- the lifetime only becomes known according to the parameter of the generic function
+  - `'static` means the lifetime is the duration of the program, often used for string constants:
+  ```rust
+  let msg: &'static str = "hello, world";
+  ```
+- a lifetime can be explicitly provided anywhere a type annotation is provided for a reference
+  - usual for structs, enums, and other data structures containing references
+  - generally, not usual for other functions because of lifetime ellision
+- lifetime elision: whenever it's permissible to let the compiler make a rules-based guess at the lifetime
+  - eg, the above would idiomatically be:
+  ```rust
+  fn example(x: &u32) {
+    let y: &u32 = &x;
+  }
+  ```
+- getting started with lifetimes:
+  - omit by default
+  - compiler will complain if needed, then try adding them
+
+### Ownership
+
+A variable gets a new owner when it's passed by value, unless the variable type implements the Copy trait. For example, a `Vec<i32>` used as the iterable of a `for` loop cannot be used after the for loop.
+
+Checking whether a type `is_copy`:
+```rust
+is_copy::<u32>();
+``` 
+
+[Generally](https://stackoverflow.com/questions/41413336/do-all-primitive-types-implement-the-copy-trait), primitive types "are Copy", and both tuples and arrays whose elements "are Copy" are also Copy.
+- re [docs re Copy trait](https://doc.rust-lang.org/std/marker/trait.Copy.html) and [omission from docs re whether primitive types implement Copy trait](https://github.com/rust-lang/rust/issues/25893)
 
 ---
 
