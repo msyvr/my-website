@@ -248,6 +248,80 @@ is_copy::<u32>();
 [Generally](https://stackoverflow.com/questions/41413336/do-all-primitive-types-implement-the-copy-trait), primitive types "are Copy", and both tuples and arrays whose elements "are Copy" are also Copy.
 - re [docs re Copy trait](https://doc.rust-lang.org/std/marker/trait.Copy.html) and [omission from docs re whether primitive types implement Copy trait](https://github.com/rust-lang/rust/issues/25893)
 
+### Closures
+
+Rust closures enable anonymous functions. Examples for annotated and inferred types of inline closures:
+```rust
+    let y: u32 = 10;
+    let annotated = |x: u32| -> u32 { x + y };
+    let inferred = |x| x + y;
+```
+Syntax notes:
+- pipes around the parameter list, followed by
+- the expression for the desired return value,
+- where a no-arg closure (||) is an empty param list
+
+Closures can reference values from their outer scope. They can also capture the outer values and use them; the captured var remains valid in its original scope. Example:
+
+```rust
+    let mut count = 0;
+    let mut increment = || {
+        count += 1;
+        count
+    };
+
+    println!("count is {}", increment());
+    println!("count is {}", increment());
+    println!("count is {}", increment());
+    println!("count after calling increment 3x is {}", count); // still valid!
+```
+
+Closures can be returned from functions. If any outer scope variables are captured by such a returned closure, they'll need to be moved into the closure.
+
+Returned closure functions return an `impl` of a trait. _More about traits later._ For now, consider a trait an interface: defines what can be done, but doesn't specify the type to which it applies.
+
+Returned closure functions can `impl` one of three traits: `Fn`, `FnMut`, `FnOnce`. These traits have a hierarchy of sorts: `Fn` can be used as `FnMut` or `FnOnce`; likewise, `FnMut` can be used as `FnOnce`. The inverse is not true.
+
+***Examples: functions returning closures***
+
+Print message:
+```rust
+fn print_msg<'a>(msg:&'a str) -> impl Fn() + 'a {
+    let printer = move || { // move ownership of msg to printer closure
+        println!("{msg}");
+    };
+    printer
+}
+
+fn main() {
+  let f = print_msg("msg: hello, world"); // nothing printed yet
+  f(); // invoke the function, ie the closure returned by print_msg
+}
+```
+nb: the lifetime must be assigned explicitly in `print_msg` (string slice, `&str`), but not in `make_counter` (primitive type, `u32`)
+
+Make counter:
+```rust
+fn make_counter() -> impl FnMut() -> u32 {
+    let mut count = 0;
+    let increment = move || {
+        count += 1;
+        count
+    };
+    increment
+}
+
+fn main() {
+  let mut counter = make_counter();
+
+  println!("count is {}", counter());
+  println!("count is {}", counter());
+  println!("count is {}", counter());
+}
+```
+
+
+
 ---
 
 ## Notes: Working through Rustlings
