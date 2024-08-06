@@ -35,6 +35,9 @@ math:
 
 [Towards a Cautious Scientist AI with Convergent Safety Bounds: Yoshua Bengio 2024.02.26](https://yoshuabengio.org/2024/02/26/towards-a-cautious-scientist-ai-with-convergent-safety-bounds/)
 
+[ADD \/ XOR \/ ROL\: Someone is wrong on the internet \(AGI Doom edition\)](https://addxorrol.blogspot.com/2024/07/someone-is-wrong-on-internet-agi-doom.html)
+- [lcamtuf @HalvarFlake FWIW... - Infosec Exchange](https://infosec.exchange/@lcamtuf/112777356046748881)
+
 ---
 
 ## Defining AGI

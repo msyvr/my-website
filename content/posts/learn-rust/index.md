@@ -21,19 +21,26 @@ One of my 2024 batch goals at [Recurse](https://recurse.com) is to learn Rust.
 
 ## The plan
 - work through three introductory Rust resources
-  - [The Rust Book](https://doc.rust-lang.org/book/)
+    - [Yet Another Rust Resource](https://yarr.fyi/)
+    - [The Rust Book](https://doc.rust-lang.org/book/)
   - [Rustlings](https://rustlings.cool/)
-  - [Yet Another Rust Resource](https://yarr.fyi/)
 - implement a small project in Rust
 
+## Getting started
+- Initial set up: [Getting started \- Rust Programming Language](https://www.rust-lang.org/learn/get-started)
+- Rustup: [Installation \- The rustup book](https://rust-lang.github.io/rustup/installation/index.html)
+  - `rustup` installs rustc, cargo, rustup and other standard tools in Cargo's `bin`
+- [Rust By Example](https://doc.rust-lang.org/rust-by-example/index.html)
+  - a collection of examples that illustrate Rust concepts and standard libraries
+
 ## Progress
+- [msyvr/yarry](https://github.com/msyvr/yarry)
 - [msyvr/rusty](https://github.com/msyvr/rusty)
 - [msyvr/rustlings](https://github.com/msyvr/rustlings)
-- [msyvr/yarry](https://github.com/msyvr/yarry)
 
 ---
 
-## Notes: Working through YARR
+## Notes: Working through [YARR](https://yarr.fyi/)
 ### Control flow
 if-else
 - no ternary (`?`) operator: as in Go, `if`-`else` is idiomatic
@@ -240,6 +247,10 @@ fn example<'a>(x: &'a u32) {
 
 A variable gets a new owner when it's passed by value, unless the variable type implements the Copy trait. For example, a `Vec<i32>` used as the iterable of a `for` loop cannot be used after the for loop.
 
+- Pass by value: value actually gets copied to _another_ variable and that copied object is passed to the method; _the method uses the copy_
+- Pass by reference: a reference to the parameter is passed to the method; _the method accesses the actual parameter_
+
+
 Checking whether a type `is_copy`:
 ```rust
 is_copy::<u32>();
@@ -320,11 +331,55 @@ fn main() {
 }
 ```
 
+### Structs
+
+Data is structured with structs: a named grouping of fields. A struct can also have methods.
+
+```rust
+struct PirateShip {
+    captain: String,
+    crew: Vec<String>,
+    treasure: f64,
+}
+
+impl PirateShip {
+    pub fn count_treasure(&self) -> f64 {
+        // some computations probably
+        self.treasure
+    }
+
+    pub fn mutiny(&mut self) {
+        if self.crew.len() > 0 {
+            // replace the captain with one of the crew
+            self.captain = self.crew.pop().unwrap();
+        } else {
+            println!("there's no crew to perform mutiny");
+        }
+    }
+}
+
+let blackbeard = "Blackbeard".to_owned();
+let crew = vec!["Scurvy".to_owned(), "Rat".to_owned(), "Polly".to_owned()];
+let ship = PirateShip {
+    captain: blackbeard,
+    crew,
+    treasure: 64.0,
+};
+```
+
+#### Aside: to_owned
+- the `to_owned` method takes a reference to a string (&str) and creates an owned string (String)
+  - do this to avoid worrying about lifetimes
+
+To avoid worrying about lifetimes, can use `to_owned` (&str -> owned String) or `clone`.
+
+Indeed, strings are more complicated to work with in Rust. More on that later.
+
 
 
 ---
 
-## Notes: Working through Rustlings
+## Notes: Working through [Rustlings](https://github.com/msyvr/rustlings)
 
 ### Options
 

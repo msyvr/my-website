@@ -32,6 +32,7 @@ math:
 - [Aria Beingessner's blog](https://faultlore.com/blah/)
   - [The Rustonomicon](https://doc.rust-lang.org/nightly/nomicon/)
 - [Why async Rust\?](https://without.boats/blog/why-async-rust/)
+- [The Scoped Task trilemma](https://without.boats/blog/the-scoped-task-trilemma/)
 - [The Pin type](https://without.boats/blog/pin/)
 - [Revisiting a \'smaller Rust\'](https://without.boats/blog/revisiting-a-smaller-rust/)
 - [Yet Another Rust Resource](https://yarr.fyi/)
