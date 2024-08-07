@@ -17,11 +17,13 @@ math:
 ---
 
 #### &#127793; draft &#127793;
-One of my 2024 batch goals at [Recurse](https://recurse.com) is to learn Rust. 
+One of my 2024 batch goals at [Recurse](https://recurse.com) is to learn Rust. Nicole has an interesting post on why Rust is hard to learn
 
 ## The plan
+It'll take more than a Recurse batch to become a Rust expert, so this is just the first step. [Nicole has a good blog post on why Rust is hard to learn](https://ntietz.com/blog/rust-resources-learning-curve/) and she later released [YARR](https://yarr.fyi/) to help new Rustaceans get up to speed quickly.
+
 - work through three introductory Rust resources
-    - [Yet Another Rust Resource](https://yarr.fyi/)
+    - [Yet Another Rust Resource](https://yarr.fyi/) (see [Nicole's introductory post](https://ntietz.com/blog/introducing-yet-another-rust-resource-or-yarr/ ) for some context on this 'yet another' resource)
     - [The Rust Book](https://doc.rust-lang.org/book/)
   - [Rustlings](https://rustlings.cool/)
 - implement a small project in Rust
@@ -374,6 +376,34 @@ let ship = PirateShip {
 To avoid worrying about lifetimes, can use `to_owned` (&str -> owned String) or `clone`.
 
 Indeed, strings are more complicated to work with in Rust. More on that later.
+
+### Enums
+In comparison to other languages, enums in Rust are relatively powerful: they're important tools in structuring data and programs idiomatically.
+
+In Rust, enums capture more than just a constant: each variant of the enum can also have data. Rust enums are like tagged unions in C.
+
+```rust
+enum Result {
+  Ok(i32),
+  Err(String),
+}
+
+fn divide_in_two(n: i32) -> Result {
+  if n % 2 == 0 {
+    Result::Ok(n / 2)
+  } else {
+    Result::Err(format!("cannot divide {n} into two equal integers"))
+  }
+}
+
+fn main() {
+  let n = 100;
+  match divide_in_two(n) {
+    Result::Ok(half) => println!("{n} divided in two is {half}"),
+    Result::Err(msg) => println!("error: {msg}"),
+  }
+}
+```
 
 
 
