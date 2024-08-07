@@ -77,6 +77,30 @@ let x = loop {
 };
 ```
 
+pattern-match with `if-let` and `while`
+
+```rust
+let value = Some(42); // pretend value actually comes from a map
+
+// check if a variant satisfies the match
+{
+  if let Some(inner) = value {
+    println!("inner was {inner}");
+  } else {
+    println!("this is the failure case");
+  }
+}
+```
+
+```rust
+let values = vec![1,2,3,4,5];
+let mut iter = values.iter();
+
+while let Some(v) = iter.next() {
+  println!("v = {v}");
+}
+```
+
 ### Functions
 
 ```rust
