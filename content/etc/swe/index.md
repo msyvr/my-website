@@ -18,6 +18,8 @@ math:
 #### - the kitchen sink of swe links! -
 
 ### Fundamentals
+[Code by Charles Petzold](https://codehiddenlanguage.com/ "Code by Charles Petzold")
+
 [Architecture for generations – Increment\: Software Architecture](https://increment.com/software-architecture/architecture-for-generations/)
 
 [Teach Yourself Programming in Ten Years](https://norvig.com/21-days.html)

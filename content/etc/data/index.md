@@ -18,4 +18,6 @@ math:
 
 [Designing Data\-Intensive Applications \(DDIA\) — an O’Reilly book by Martin Kleppmann \(The Wild Boar Book\)](https://dataintensive.net/)
 
-[Martin Kleppmann on motivation for writing DDIA](https://martin.kleppmann.com/2014/09/15/writing-a-book.html)
+- [Martin Kleppmann on motivation for writing DDIA](https://martin.kleppmann.com/2014/09/15/writing-a-book.html)
+
+[CMU 15\-445\/645 \:\: Intro to Database Systems \(Fall 2023; Andy Pavlo, Jignesh Patel)](https://15445.courses.cs.cmu.edu/fall2023/)

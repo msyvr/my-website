@@ -17,10 +17,10 @@ math:
 ---
 
 #### &#127793; draft &#127793;
-One of my 2024 batch goals at [Recurse](https://recurse.com) is to learn Rust. Nicole has an interesting post on why Rust is hard to learn
+One of my 2024 batch goals at [Recurse](https://recurse.com) is to learn a bit of Rust.
 
 ## The plan
-It'll take more than a Recurse batch to become a Rust expert, so this is just the first step. [Nicole has a good blog post on why Rust is hard to learn](https://ntietz.com/blog/rust-resources-learning-curve/) and she later released [YARR](https://yarr.fyi/) to help new Rustaceans get up to speed quickly.
+[Nicole has a good blog post on why Rust is hard to learn](https://ntietz.com/blog/rust-resources-learning-curve/) and she later released [YARR](https://yarr.fyi/) to help new Rustaceans get up to speed quickly.
 
 - work through three introductory Rust resources
     - [Yet Another Rust Resource](https://yarr.fyi/) (see [Nicole's introductory post](https://ntietz.com/blog/introducing-yet-another-rust-resource-or-yarr/ ) for some context on this 'yet another' resource)
@@ -429,7 +429,33 @@ fn main() {
 }
 ```
 
+### Modules
 
+Essentially, enable more maintainable code; also, hide implementation details.
+
+Can store modules in separate files; then, declare the module where needed.
+
+```rust
+// math.rs
+pub fn add(x: u32, y: u32) -> u32 {
+  x + y
+}
+```
+```rust
+// main.rs
+pub mod math;
+fn main() {
+  println!("add 5 and 6 using the math module to get {}", math::add(5,6));
+}
+```
+
+- Public modules: anyone consuming the crate can use the module and its pub members.
+- Private modules: accessible only to themselves and their descendants.
+
+Use modules using `use`: `use std::collections::HashMap;`
+
+- reference to `super::thing` gets `thing` from parent module
+- reference to `crate::thing` gets `thing` from root of containing crate (the crate you're in)
 
 ---
 

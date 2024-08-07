@@ -1,10 +1,10 @@
 ---
-title: 'Operating systems'
+title: 'Systems engineering'
 date: 2024-07-24T16:46:03-07:00
 draft: false
 author: "Monica Spisar"
 authorLink: "https://monicaspisar.com"
-description: 'Operating systems'
+description: 'Systems engineering'
 images: 
 - "/posts/.../....png"
 tags: []
@@ -16,6 +16,7 @@ math:
   enable: true
 ---
 
+### Operating systems
 [Stanford cs140e](https://cs140e.sergio.bz/syllabus/)
 
 [CMU 15-410](https://www.cs.cmu.edu/~410/)
@@ -25,3 +26,6 @@ math:
 
 [UMich eecs582](https://eecs582.github.io/)
 - [Operating Systems: Three Easy Pieces](https://pages.cs.wisc.edu/~remzi/OSTEP/)
+
+### Etc
+[CircuitPython](https://circuitpython.org/)
