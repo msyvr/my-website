@@ -24,7 +24,7 @@ Recurse brands itself as the equivalent of a writers' retreat - but for software
 
 What do Recurses do during their batches? Well, anything they want, really - unschooling at its finest. The only requirements are to live by the light-weight [social rules](https://www.recurse.com/social-rules), to commit to becoming a dramatically better programmer in-batch, and to learn generously.
 
-### But what *is* the secret of Recuse?
+### But what *is* the secret of Recurse?
 
 The community can be humbling - it is no exaggeration to say it's brimming with technical genius. Simultaneously, generosity and kindness are foundational values. The combination is almost indescribable. 
 
